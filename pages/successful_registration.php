@@ -4,6 +4,7 @@
     <meta charset='UTF-8'>
     <title>Registration</title>
     <link rel="icon" type="image/x-icon" href="/img/main_icon.png">
+    <link rel="stylesheet" type="text/css" href="../style/style.css">
 </head>
 <body>
 <?php
@@ -14,14 +15,18 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST'){
     $pw = $_POST['pw'];
     $user = array(
         'username' => $username,
-        'password' => $pw
+        'password' => $pw,
+        'creation_date' => date_create('now'),
+        'last_log' => date_create('now')
     );
     $JSON_DATA = json_decode(file_get_contents($JSON_PATH), true);
 
     $duplicate = false;
     foreach ($JSON_DATA as $array){
-        if ($username == $array['username'])
+        if ($username == $array['username']) {
             $duplicate = true;
+            break;
+        }
     }
 
     if (!$duplicate){
@@ -33,8 +38,8 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST'){
 
         header("Location:main_page.php");
     } else {
-        echo "<h1>Invalid username</h1>
-                <a href='registration.php'>Register</a>";
+        echo "<h1 class='login header'>Invalid username</h1>
+                <a class='login ref' href='registration.php'>Register</a>";
     }
 }
 ?>

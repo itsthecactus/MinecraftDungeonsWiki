@@ -1,0 +1,51 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "file:php",
+      "color": {
+        "a": 1,
+        "rgb": 6831289
+      }
+    },
+    {
+      "query": "file:json",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "file:css",
+      "color": {
+        "a": 1,
+        "rgb": 16738370
+      }
+    },
+    {
+      "query": "file:html",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 0.99527083333333,
+  "lineSizeMultiplier": 1.9895625,
+  "collapse-forces": true,
+  "centerStrength": 0,
+  "repelStrength": 0,
+  "linkStrength": 0,
+  "linkDistance": 30,
+  "scale": 1.4019828977761042,
+  "close": true
+}

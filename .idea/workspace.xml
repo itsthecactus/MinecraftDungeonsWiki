@@ -4,7 +4,41 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d30c69cb-12dc-42ba-ab2e-cba18d0ef22f" name="Changes" comment="" />
+    <list default="true" id="d30c69cb-12dc-42ba-ab2e-cba18d0ef22f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/ObsidianVault/.obsidian/app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObsidianVault/.obsidian/appearance.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObsidianVault/.obsidian/canvas.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObsidianVault/.obsidian/core-plugins-migration.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObsidianVault/.obsidian/core-plugins.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObsidianVault/.obsidian/graph.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObsidianVault/.obsidian/hotkeys.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObsidianVault/.obsidian/workspace.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObsidianVault/data_json/armors.json.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObsidianVault/data_json/artifacts.json.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObsidianVault/data_json/builds.json.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObsidianVault/data_json/users.json.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObsidianVault/data_json/weapons.json.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObsidianVault/pages_php/armors.php.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObsidianVault/pages_php/artifacts.php.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObsidianVault/pages_php/login.php.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObsidianVault/pages_php/main_page.php.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObsidianVault/pages_php/registration.php.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObsidianVault/pages_php/successful_login.php.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObsidianVault/pages_php/successful_registration.php.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObsidianVault/pages_php/weapons.php.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObsidianVault/pages_php/your_build.php.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObsidianVault/pages_relationships.canvas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObsidianVault/style_css/style.css.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/style/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/users.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/users.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/login.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/main_page.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/main_page.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/registration.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/registration.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/successful_login.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/successful_login.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/successful_registration.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/successful_registration.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,19 +47,36 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PhpServers">
+    <servers>
+      <server host="PhpStorm 2023.3.1" id="41508825-a6b6-425d-aa5d-5fbb91f6e98b" name="PhpStorm 2023.3.1" port="63342" />
+    </servers>
+  </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2ZaMmot0kPskNITwh4VXEicl4CL" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "PHP Script.login.php.executor": "Debug",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "develop-login",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/leona/xampp/php/php.exe",
     "node.js.detected.package.eslint": "true",
@@ -33,12 +84,14 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "reference.webide.settings.project.settings.php",
+    "settings.build.tools.auto.reload": "SELECTIVE",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\leona\PhpstormProjects\MinecraftDungeonsWiki\pages" />
       <recent name="C:\Users\leona\PhpstormProjects\MinecraftDungeonsWiki" />
     </key>
   </component>
@@ -58,10 +111,15 @@
       <option name="presentableId" value="Default" />
       <updated>1702655899522</updated>
       <workItem from="1702655900666" duration="4670000" />
+      <workItem from="1702671003476" duration="196000" />
+      <workItem from="1702743031009" duration="10125000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

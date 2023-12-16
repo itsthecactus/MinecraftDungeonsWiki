@@ -1,10 +1,30 @@
 [
     {
         "username": "leonardo",
-        "password": "05085"
+        "password": "05085",
+        "creation_date": {
+            "date": "2023-12-16 18:11:27.524361",
+            "timezone_type": 3,
+            "timezone": "Europe\/Berlin"
+        },
+        "last_log": {
+            "date": "2023-12-16 20:00:10.373141",
+            "timezone_type": 3,
+            "timezone": "Europe\/Berlin"
+        }
     },
     {
         "username": "mickey",
-        "password": "1234"
+        "password": "12345",
+        "creation_date": {
+            "date": "2023-12-16 18:31:25.714784",
+            "timezone_type": 3,
+            "timezone": "Europe\/Berlin"
+        },
+        "last_log": {
+            "date": "2023-12-16 18:32:06.418452",
+            "timezone_type": 3,
+            "timezone": "Europe\/Berlin"
+        }
     }
 ]
