@@ -4,7 +4,7 @@
     <meta charset='UTF-8'>
     <title>Registration</title>
     <link rel="icon" type="image/x-icon" href="/img/main_icon.png">
-    <link rel="stylesheet" type="text/css" href="../style/style.css">
+    <link rel="stylesheet" type="text/css" href="../style/style_login.css">
 </head>
 <body>
 <?php
@@ -38,8 +38,12 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST'){
 
         header("Location:main_page.php");
     } else {
-        echo "<h1 class='login header'>Invalid username</h1>
-                <a class='login ref' href='registration.php'>Register</a>";
+        echo "
+            <form class='login' action='registration.php'>
+                <p class='msg'>This username is already taken</p>
+                <input type='submit' class='login button press' value='REGISTER'>
+            </form>
+        ";
     }
 }
 ?>

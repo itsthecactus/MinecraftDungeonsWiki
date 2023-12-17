@@ -5,16 +5,17 @@
 		{"id":"5b494a7e6503d9ca","type":"file","file":"data_json/armors.json.md","x":-780,"y":-330,"width":235,"height":50,"color":"3"},
 		{"id":"79e32f477934d24f","type":"file","file":"data_json/artifacts.json.md","x":-780,"y":-280,"width":245,"height":50,"color":"3"},
 		{"id":"9a81f938539179c6","type":"file","file":"data_json/builds.json.md","x":-780,"y":-220,"width":213,"height":50,"color":"3"},
-		{"id":"e02099157b409aba","type":"file","file":"style_css/style.css.md","x":-780,"y":-100,"width":185,"height":50,"color":"2"},
 		{"id":"df7e40d5794d8217","type":"file","file":"pages_php/login.php.md","x":53,"y":-475,"width":200,"height":50,"color":"6"},
 		{"id":"9b60ef538e8df5a4","type":"file","file":"pages_php/weapons.php.md","x":-297,"y":180,"width":240,"height":50,"color":"6"},
 		{"id":"661010a59e516810","type":"file","file":"pages_php/armors.php.md","x":-297,"y":320,"width":230,"height":50,"color":"6"},
-		{"id":"f12d000514c3f52c","type":"file","file":"pages_php/your_build.php.md","x":337,"y":320,"width":267,"height":50,"color":"6"},
+		{"id":"f12d000514c3f52c","type":"file","file":"pages_php/build.php.md","x":337,"y":320,"width":267,"height":50,"color":"6"},
 		{"id":"c7b1a11ebf3d09e5","type":"file","file":"pages_php/artifacts.php.md","x":-297,"y":460,"width":243,"height":50,"color":"6"},
 		{"id":"34ab55a4276907a5","type":"file","file":"pages_php/successful_login.php.md","x":-297,"y":-195,"width":350,"height":50,"color":"6"},
 		{"id":"0bdb7c4cc4675309","type":"file","file":"pages_php/successful_registration.php.md","x":253,"y":-195,"width":434,"height":50,"color":"6"},
 		{"id":"59d417f07b779c0f","type":"file","file":"pages_php/main_page.php.md","x":18,"y":40,"width":271,"height":50,"color":"6"},
-		{"id":"fb02a6f34ff30550","type":"file","file":"pages_php/registration.php.md","x":328,"y":-330,"width":285,"height":50,"color":"6"}
+		{"id":"fb02a6f34ff30550","type":"file","file":"pages_php/registration.php.md","x":328,"y":-330,"width":285,"height":50,"color":"6"},
+		{"id":"e02099157b409aba","type":"file","file":"style_css/style_login.css.md","x":-780,"y":-80,"width":254,"height":50,"color":"2"},
+		{"id":"69dee80b84664757","x":-783,"y":-10,"width":261,"height":50,"color":"2","type":"file","file":"style_css/style_main.css.md"}
 	],
 	"edges":[
 		{"id":"b7cd6931d8e4c721","fromNode":"59d417f07b779c0f","fromSide":"bottom","toNode":"f12d000514c3f52c","toSide":"top","toEnd":"none"},

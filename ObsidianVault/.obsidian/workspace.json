@@ -16,7 +16,7 @@
               "state": {
                 "file": "pages_relationships.canvas",
                 "viewState": {
-                  "x": 161.5,
+                  "x": 172.81370849898474,
                   "y": 41,
                   "zoom": -0.5
                 }
@@ -25,17 +25,15 @@
             }
           },
           {
-            "id": "7ccbc6214507e41f",
+            "id": "dd4c7698ef5647c6",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "style_css/style.css.md",
+                "file": "style_css/style_main.css.md",
                 "mode": "source",
                 "source": false
-              },
-              "pinned": true
+              }
             }
           }
         ],
@@ -105,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "style_css/style.css.md",
+                "file": "style_css/style_main.css.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "style_css/style.css.md",
+                "file": "style_css/style_main.css.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "style_css/style.css.md"
+                "file": "style_css/style_main.css.md"
               }
             }
           }
@@ -167,10 +165,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7ccbc6214507e41f",
+  "active": "dd4c7698ef5647c6",
   "lastOpenFiles": [
     "pages_relationships.canvas",
-    "style_css/style.css.md",
+    "style_css/style_login.css.md",
+    "style_css/style_main.css.md",
+    "pages_php/build.php.md",
     "data_json/Untitled.md",
     "data_json/builds.json.md",
     "data_json/artifacts.json.md",
@@ -178,7 +178,6 @@
     "data_json/armors.json.md",
     "data_json/users.json.md",
     "data_json",
-    "pages_php/your_build.php.md",
     "pages_php/weapons.php.md",
     "pages_php/successful_registration.php.md",
     "pages_php/successful_login.php.md",
@@ -196,7 +195,6 @@
     "armors.php.md",
     "registration.php.md",
     "successful_registration.php.md",
-    "successful_login.php.md",
-    "registration.php.md"
+    "successful_login.php.md"
   ]
 }

@@ -4,7 +4,7 @@
     <meta charset='UTF-8'>
     <title>Login</title>
     <link rel="icon" type="image/x-icon" href="/img/main_icon.png">
-    <link rel="stylesheet" type="text/css" href="../style/style.css">
+    <link rel="stylesheet" type="text/css" href="../style/style_login.css">
 </head>
 <body>
 <?php
@@ -30,12 +30,14 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST'){
     if ($valid){
         header("Location:main_page.php");
     } else {
-        echo "<h1 class='login header'>You are not registered yet</h1>
+        echo "
             <form class='login' action='registration.php'>
-            <input type='submit' class='login button' value='REGISTER'>
-            <a class='login ref' href='login.php'>Back to log in</a><br>
+                <p class='msg'>You are not registered yet</p>
+                <input type='submit' class='login button press' value='REGISTER'><br>
+                <a class='login menu press' href='login.php'>BACK TO LOGIN</a>
             </form>
-            ";
+            
+        ";
     }
 }
 ?>

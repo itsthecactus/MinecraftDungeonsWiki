@@ -1,12 +1,9 @@
 CLASSES
 
 	login
-		header
-		label
+		msg
 		input
 			text
 			password
 		button
-		ref
-
-
+		menu

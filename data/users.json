@@ -8,7 +8,7 @@
             "timezone": "Europe\/Berlin"
         },
         "last_log": {
-            "date": "2023-12-16 20:00:10.373141",
+            "date": "2023-12-17 18:51:32.887672",
             "timezone_type": 3,
             "timezone": "Europe\/Berlin"
         }
@@ -23,6 +23,20 @@
         },
         "last_log": {
             "date": "2023-12-16 18:32:06.418452",
+            "timezone_type": 3,
+            "timezone": "Europe\/Berlin"
+        }
+    },
+    {
+        "username": "thecactus",
+        "password": "Ml05082005",
+        "creation_date": {
+            "date": "2023-12-17 10:31:44.505098",
+            "timezone_type": 3,
+            "timezone": "Europe\/Berlin"
+        },
+        "last_log": {
+            "date": "2023-12-17 17:30:48.037580",
             "timezone_type": 3,
             "timezone": "Europe\/Berlin"
         }

@@ -1,0 +1,66 @@
+@font-face {
+    font-family: Pixel;
+    src: url("../fonts/PixelFont.ttf");
+}
+html {
+    background-image: linear-gradient(rgba(0, 0, 0, 0),rgba(0, 0, 0, .8)) , url("../img/Background.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+body {
+    font-family: Pixel;
+}
+.zoom {
+    transition: transform .5s;
+}
+.zoom:hover {
+    transform: scale(1.2);
+}
+.menu {
+    background-color: rgba(0, 0, 0, .6);
+    font-size: large;
+    font-weight: lighter;
+    font-family: inherit;
+    color: white;
+    text-decoration-line: none;
+    border-style: solid;
+    border-width: thin;
+    border-color: white;
+    border-radius: 10px;
+    padding: 5% .5% .5% .5%;
+}
+.menu:hover {
+    background-color: white;
+    color: black;
+    font-weight: bold;
+}
+div.container {
+    text-align: center;
+    margin-top: 20%;
+}
+.button {
+    height: 300px;
+    width: 300px;
+    margin-right: 1%;
+    margin-left: 1%;
+    border-radius: 30px;
+    border-color: black;
+    border-style: outset;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.button.weapons {
+    background-image: url("../img/buttons/weapon_bckgrnd.png");
+}
+.button.armors {
+    background-image: url("../img/buttons/armor_bckgrnd.png");
+}
+.button.artifacts {
+    background-image: url("../img/buttons/artifact_bckgrnd.png");
+}
+.button.build {
+    background-image: url("../img/buttons/build_bckgrnd.png");
+}

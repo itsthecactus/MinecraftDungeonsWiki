@@ -1,0 +1,101 @@
+@font-face {
+    font-family: Pixel;
+    src: url("../fonts/PixelFont.ttf");
+}
+html {
+    background-image: linear-gradient(rgba(0, 0, 0, 0),rgba(0, 0, 0, .8)) , url("../img/Background.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+body {
+    font-family: Pixel;
+}
+.press:hover {
+    background-image: url("../img/button_hover.png");
+}
+form {
+    text-align: center;
+    margin-top: 18%;
+    font-family: inherit;
+}
+div.parent_container {
+    text-align: center;
+    width: 30%;
+    height: 100%;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: transparent;
+}
+div.container {
+    text-align: center;
+    width: 100%;
+    height: 100%;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 30%;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 20px;
+}
+.input {
+    background-color: black;
+    color: white;
+    opacity: .7;
+    border-color: black;
+    border-style: solid;
+    font-size: xxx-large;
+    font-family: inherit;
+    width: 90%;
+    text-align: center;
+    border-radius: 10px;
+}
+.input.text {
+    margin-top: 3%;
+    margin-bottom: 1.5%;
+}
+.input.password {
+    margin-top: 1.5%;
+    margin-bottom: 3%;
+}
+.button {
+    background-color: transparent;
+    background-image: url("../img/button.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    border-color: transparent;
+    border-style: none;
+    font-size: xxx-large;
+    font-weight: lighter;
+    margin-bottom: 2.5%;
+    font-family: inherit;
+
+    width: 235px;
+    height: 60px;
+}
+.menu {
+    background-color: rgba(0, 0, 0, .6);
+    color: white;
+    text-decoration-line: none;
+    border-style: solid;
+    border-width: thin;
+    border-color: white;
+    border-radius: 10px;
+    padding: 1%;
+    font-size: x-large;
+    font-weight: lighter;
+    font-family: inherit;
+}
+.menu:hover {
+     background-color: white;
+     color: black;
+     font-weight: bold;
+ }
+.msg {
+    text-align: center;
+    color: white;
+    font-family: inherit;
+    font-size: xx-large;
+}
