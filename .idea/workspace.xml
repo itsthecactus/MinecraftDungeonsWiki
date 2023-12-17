@@ -5,39 +5,42 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d30c69cb-12dc-42ba-ab2e-cba18d0ef22f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ObsidianVault/.obsidian/app.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ObsidianVault/.obsidian/appearance.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ObsidianVault/.obsidian/canvas.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ObsidianVault/.obsidian/core-plugins-migration.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ObsidianVault/.obsidian/core-plugins.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ObsidianVault/.obsidian/graph.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ObsidianVault/.obsidian/hotkeys.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ObsidianVault/.obsidian/workspace.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ObsidianVault/data_json/armors.json.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ObsidianVault/data_json/artifacts.json.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ObsidianVault/data_json/builds.json.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ObsidianVault/data_json/users.json.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ObsidianVault/data_json/weapons.json.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ObsidianVault/pages_php/armors.php.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ObsidianVault/pages_php/artifacts.php.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ObsidianVault/pages_php/login.php.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ObsidianVault/pages_php/main_page.php.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ObsidianVault/pages_php/registration.php.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ObsidianVault/pages_php/successful_login.php.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ObsidianVault/pages_php/successful_registration.php.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ObsidianVault/pages_php/weapons.php.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ObsidianVault/pages_php/your_build.php.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ObsidianVault/pages_relationships.canvas" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ObsidianVault/style_css/style.css.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/template.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/style/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObsidianVault/pages_php/build.php.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObsidianVault/style_css/style_login.css.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObsidianVault/style_css/style_main.css.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/OFL.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/PixelFont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/static/PixelifySans-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/static/PixelifySans-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/static/PixelifySans-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/static/PixelifySans-SemiBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/button.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/button_hover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/buttons/armor_bckgrnd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/buttons/artifact_bckgrnd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/buttons/build_bckgrnd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/buttons/weapon_bckgrnd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wiki/armors.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wiki/artifacts.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wiki/build.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wiki/weapons.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/style/style_main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObsidianVault/.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/ObsidianVault/.obsidian/workspace.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObsidianVault/pages_php/main_page.php.md" beforeDir="false" afterPath="$PROJECT_DIR$/ObsidianVault/pages_php/main_page.php.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObsidianVault/pages_php/your_build.php.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObsidianVault/pages_relationships.canvas" beforeDir="false" afterPath="$PROJECT_DIR$/ObsidianVault/pages_relationships.canvas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObsidianVault/style_css/style.css.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/users.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/users.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/login.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/login.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/main_page.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/main_page.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/registration.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/registration.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/successful_login.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/successful_login.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/successful_registration.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/successful_registration.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/template.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/template.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/style_login.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,25 +73,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "PHP Script.login.php.executor": "Debug",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "develop-login",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/leona/xampp/php/php.exe",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.build.tools.auto.reload": "SELECTIVE",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;PHP Script.login.php.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;develop-login&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/leona/xampp/php/php.exe&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.build.tools.auto.reload&quot;: &quot;SELECTIVE&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\leona\PhpstormProjects\MinecraftDungeonsWiki\pages" />
@@ -113,6 +116,11 @@
       <workItem from="1702655900666" duration="4670000" />
       <workItem from="1702671003476" duration="196000" />
       <workItem from="1702743031009" duration="10125000" />
+      <workItem from="1702801825437" duration="7391000" />
+      <workItem from="1702815799797" duration="1078000" />
+      <workItem from="1702824603697" duration="1200000" />
+      <workItem from="1702826295146" duration="5392000" />
+      <workItem from="1702835457782" duration="946000" />
     </task>
     <servers />
   </component>
