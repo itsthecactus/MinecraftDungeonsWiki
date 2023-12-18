@@ -36,6 +36,8 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST'){
         fwrite($handler, $new_content);
         fclose($handler);
 
+        setcookie('username', $username, time() + (86400 * 30), '/');
+
         header("Location:main_page.php");
     } else {
         echo "

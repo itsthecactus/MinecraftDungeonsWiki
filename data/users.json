@@ -8,7 +8,7 @@
             "timezone": "Europe\/Berlin"
         },
         "last_log": {
-            "date": "2023-12-17 18:51:32.887672",
+            "date": "2023-12-18 12:59:33.916792",
             "timezone_type": 3,
             "timezone": "Europe\/Berlin"
         }
@@ -22,7 +22,7 @@
             "timezone": "Europe\/Berlin"
         },
         "last_log": {
-            "date": "2023-12-16 18:32:06.418452",
+            "date": "2023-12-18 12:23:37.246783",
             "timezone_type": 3,
             "timezone": "Europe\/Berlin"
         }
@@ -36,7 +36,21 @@
             "timezone": "Europe\/Berlin"
         },
         "last_log": {
-            "date": "2023-12-17 17:30:48.037580",
+            "date": "2023-12-18 13:00:00.396485",
+            "timezone_type": 3,
+            "timezone": "Europe\/Berlin"
+        }
+    },
+    {
+        "username": "generale",
+        "password": "boh",
+        "creation_date": {
+            "date": "2023-12-18 12:19:12.919780",
+            "timezone_type": 3,
+            "timezone": "Europe\/Berlin"
+        },
+        "last_log": {
+            "date": "2023-12-18 12:23:05.343858",
             "timezone_type": 3,
             "timezone": "Europe\/Berlin"
         }

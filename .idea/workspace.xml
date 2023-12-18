@@ -5,39 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d30c69cb-12dc-42ba-ab2e-cba18d0ef22f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ObsidianVault/.obsidian/app.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ObsidianVault/.obsidian/appearance.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ObsidianVault/.obsidian/canvas.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ObsidianVault/.obsidian/core-plugins-migration.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ObsidianVault/.obsidian/core-plugins.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ObsidianVault/.obsidian/graph.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ObsidianVault/.obsidian/hotkeys.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ObsidianVault/.obsidian/workspace.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ObsidianVault/data_json/armors.json.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ObsidianVault/data_json/artifacts.json.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ObsidianVault/data_json/builds.json.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ObsidianVault/data_json/users.json.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ObsidianVault/data_json/weapons.json.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ObsidianVault/pages_php/armors.php.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ObsidianVault/pages_php/artifacts.php.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ObsidianVault/pages_php/login.php.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ObsidianVault/pages_php/main_page.php.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ObsidianVault/pages_php/registration.php.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ObsidianVault/pages_php/successful_login.php.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ObsidianVault/pages_php/successful_registration.php.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ObsidianVault/pages_php/weapons.php.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ObsidianVault/pages_php/your_build.php.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ObsidianVault/pages_relationships.canvas" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ObsidianVault/style_css/style.css.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/template.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/style/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/armors.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/artifacts.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/builds.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/dbToJson/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/dbToJson/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/dbToJson/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/dbToJson/.idea/libraries/mysql_connector_java.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/dbToJson/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/dbToJson/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/dbToJson/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/dbToJson/dbToJson.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/dbToJson/lib/mysql-connector-java-8.0.30.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/dbToJson/lib/protobuf-java-3.19.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/dbToJson/src/DataBase/DB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/dbToJson/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/weapons.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data/users.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/users.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/login.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/main_page.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/main_page.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/registration.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/registration.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/successful_login.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/successful_login.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/successful_registration.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/successful_registration.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/wiki/build.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/wiki/build.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/style_main.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/style_main.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +48,7 @@
       <server host="PhpStorm 2023.3.1" id="41508825-a6b6-425d-aa5d-5fbb91f6e98b" name="PhpStorm 2023.3.1" port="63342" />
     </servers>
   </component>
-  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="C:\xampp\php\php.exe" />
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -73,10 +63,12 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "PHP Script.login.php.executor": "Debug",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "develop-login",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "develop-1.0",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/leona/xampp/php/php.exe",
     "node.js.detected.package.eslint": "true",
@@ -98,7 +90,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-php-predefined-ba97393d7c68-74080bdb84d3-com.jetbrains.php.sharedIndexes-PS-233.11799.297" />
+        <option value="bundled-php-predefined-ba97393d7c68-74080bdb84d3-com.jetbrains.php.sharedIndexes-PS-233.11799.232" />
       </set>
     </attachedChunks>
   </component>
@@ -113,6 +105,7 @@
       <workItem from="1702655900666" duration="4670000" />
       <workItem from="1702671003476" duration="196000" />
       <workItem from="1702743031009" duration="10125000" />
+      <workItem from="1702898238897" duration="1898000" />
     </task>
     <servers />
   </component>
