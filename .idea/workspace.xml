@@ -5,29 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d30c69cb-12dc-42ba-ab2e-cba18d0ef22f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/armors.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/artifacts.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/builds.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/dbToJson/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/dbToJson/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/dbToJson/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/dbToJson/.idea/libraries/mysql_connector_java.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/dbToJson/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/dbToJson/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/dbToJson/.idea/sqldialects.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/dbToJson/dbToJson.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/dbToJson/lib/mysql-connector-java-8.0.30.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/dbToJson/lib/protobuf-java-3.19.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/dbToJson/src/DataBase/DB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/dbToJson/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/weapons.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data/users.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/users.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/successful_login.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/successful_login.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/successful_registration.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/successful_registration.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/wiki/build.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/wiki/build.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style/style_main.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/style_main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/button.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/button.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/button_hover.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/button_hover.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/buttons/artifact_bckgrnd.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/buttons/artifact_bckgrnd.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/style_login.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/style_login.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +32,7 @@
       <server host="PhpStorm 2023.3.1" id="41508825-a6b6-425d-aa5d-5fbb91f6e98b" name="PhpStorm 2023.3.1" port="63342" />
     </servers>
   </component>
-  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="C:\xampp\php\php.exe" />
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -60,37 +44,37 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "PHP Script.login.php.executor": "Debug",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "develop-1.0",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/leona/xampp/php/php.exe",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.build.tools.auto.reload": "SELECTIVE",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;PHP Script.login.php.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;develop-1.0&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/leona/xampp/php/php.exe&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.build.tools.auto.reload&quot;: &quot;SELECTIVE&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\leona\PhpstormProjects\MinecraftDungeonsWiki\pages" />
       <recent name="C:\Users\leona\PhpstormProjects\MinecraftDungeonsWiki" />
+      <recent name="C:\Users\leona\PhpstormProjects\MinecraftDungeonsWiki\pages" />
     </key>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-php-predefined-ba97393d7c68-74080bdb84d3-com.jetbrains.php.sharedIndexes-PS-233.11799.232" />
+        <option value="bundled-php-predefined-ba97393d7c68-74080bdb84d3-com.jetbrains.php.sharedIndexes-PS-233.11799.297" />
       </set>
     </attachedChunks>
   </component>
@@ -106,6 +90,7 @@
       <workItem from="1702671003476" duration="196000" />
       <workItem from="1702743031009" duration="10125000" />
       <workItem from="1702898238897" duration="1898000" />
+      <workItem from="1702934728205" duration="979000" />
     </task>
     <servers />
   </component>

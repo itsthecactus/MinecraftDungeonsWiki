@@ -19,6 +19,7 @@ form {
     text-align: center;
     margin-top: 18%;
     font-family: inherit;
+    transition: transform .2s;
 }
 div.parent_container {
     text-align: center;
@@ -49,6 +50,11 @@ div.container {
     width: 90%;
     text-align: center;
     border-radius: 10px;
+    transition: transform .2s;
+}
+.input:focus {
+    transform: scale(1.05);
+    opacity: .9;
 }
 .input.text {
     margin-top: 3%;
@@ -72,8 +78,8 @@ div.container {
     margin-bottom: 2.5%;
     font-family: inherit;
 
-    width: 235px;
-    height: 60px;
+    width: 245px;
+    height: 70px;
 }
 .menu {
     background-color: rgba(0, 0, 0, .6);
