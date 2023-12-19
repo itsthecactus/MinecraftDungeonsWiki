@@ -1,1 +1,578 @@
-[]
+[
+    {
+        "id": "Archer%27s_Armor",
+        "name": "Archer's Armor",
+        "img": "https:\/\/static.wikia.nocookie.net\/minecraft_gamepedia\/images\/5\/5e\/Archer%27s_Armor_%28MCD%29.png\/revision\/latest?cb=20200602034005",
+        "rarity": "COMMON~RARE",
+        "properties": "^-25% artifact cooldown~Pushback resistance",
+        "enchantments": ""
+    },
+    {
+        "id": "Arctic_Fox_Armor",
+        "name": "Arctic Fox Armor",
+        "img": "https:\/\/static.wikia.nocookie.net\/minecraft_gamepedia\/images\/b\/b7\/Arctic_Fox_Armor_%28MCD%29.png\/revision\/latest?cb=20201210163922",
+        "rarity": "UNIQUE",
+        "properties": "^-40% artifact cooldown~Resists any form of knockback by 75%~Gives an extra roll",
+        "enchantments": "^Multi-Roll"
+    },
+    {
+        "id": "Battle_Robe",
+        "name": "Battle Robe",
+        "img": "https:\/\/static.wikia.nocookie.net\/minecraft_gamepedia\/images\/b\/bc\/Battle_Robe_%28MCD%29.png\/revision\/latest?cb=20201219174718",
+        "rarity": "UNIQUE",
+        "properties": "^-40% artifact cooldown~Resists any form of knockback by 75%~Environmental damage resistance",
+        "enchantments": "^Environmental Protection"
+    },
+    {
+        "id": "Beehive_Armor",
+        "name": "Beehive Armor",
+        "img": "https:\/\/static.wikia.nocookie.net\/minecraft_gamepedia\/images\/d\/d3\/Beehive_Armor_%28MCD%29.png\/revision\/latest?cb=20200909110618",
+        "rarity": "COMMON~RARE",
+        "properties": "^+25% melee attack speed~Chance to spawn emeralds when exploring",
+        "enchantments": "^Lucky Explorer"
+    },
+    {
+        "id": "Beenest_Armor",
+        "name": "Beenest Armor",
+        "img": "https:\/\/static.wikia.nocookie.net\/minecraft_gamepedia\/images\/e\/e3\/Beenest_Armor_%28MCD%29.png\/revision\/latest?cb=20200909105256",
+        "rarity": "UNIQUE",
+        "properties": "^+25% melee attack speed~Chance to spawn emeralds when exploring~Can spend emeralds to cheat death",
+        "enchantments": "^Death Barter~Lucky Explorer"
+    },
+    {
+        "id": "Black_Spot_Armor",
+        "name": "Black Spot Armor",
+        "img": "https:\/\/static.wikia.nocookie.net\/minecraft_gamepedia\/images\/3\/32\/Black_Spot_Armor_%28MCD%29.png\/revision\/latest?cb=20221023031257",
+        "rarity": "UNIQUE",
+        "properties": "^+25% melee attack speed~Chance to spawn emeralds when exploring~Invulnerability on emerald collection",
+        "enchantments": "^Lucky Explorer~Emerald Shield"
+    },
+    {
+        "id": "Black_Wolf_Armor",
+        "name": "Black Wolf Armor",
+        "img": "https:\/\/static.wikia.nocookie.net\/minecraft_gamepedia\/images\/b\/bf\/Black_Wolf_Armor_%28MCD%29.png\/revision\/latest?cb=20201219180626",
+        "rarity": "COMMON~RARE",
+        "properties": "^Health potions heal nearby allies~+30% positive status effect duration",
+        "enchantments": ""
+    },
+    {
+        "id": "Cauldron_Armor",
+        "name": "Cauldron Armor",
+        "img": "https:\/\/static.wikia.nocookie.net\/minecraft_gamepedia\/images\/c\/c7\/Cauldron_Armor_%28MCD%29.png\/revision\/latest?cb=20211028061028",
+        "rarity": "UNIQUE",
+        "properties": "^Health potions heal nearby allies~+30% positive~-30% negative",
+        "enchantments": ""
+    },
+    {
+        "id": "Cave_Crawler",
+        "name": "Cave Crawler",
+        "img": "https:\/\/static.wikia.nocookie.net\/minecraft_gamepedia\/images\/f\/f9\/Cave_Crawler_%28MCD%29.png\/revision\/latest?cb=20200602024152",
+        "rarity": "COMMON~RARE",
+        "properties": "^-40% artifact cooldown~+15% move speed aura",
+        "enchantments": ""
+    },
+    {
+        "id": "Champion%27s_Armor",
+        "name": "Champion's Armor",
+        "img": "https:\/\/static.wikia.nocookie.net\/minecraft_gamepedia\/images\/3\/3d\/Champion%27s_Armor_%28MCD%29.png\/revision\/latest?cb=20200407181621",
+        "rarity": "UNIQUE",
+        "properties": "^-40% artifact cooldown~+15% move speed aura~Burns mobs",
+        "enchantments": "^Burning"
+    },
+    {
+        "id": "Climbing_Gear",
+        "name": "Climbing Gear",
+        "img": "https:\/\/static.wikia.nocookie.net\/minecraft_gamepedia\/images\/b\/b3\/Climbing_Gear_%28MCD%29.png\/revision\/latest?cb=20201209124029",
+        "rarity": "UNIQUE",
+        "properties": "^-40% artifact cooldown~+15% move speed aura~Increase maximum souls~+2 Soul gathering",
+        "enchantments": "^Bag of Souls"
+    },
+    {
+        "id": "Cloaked_Skull",
+        "name": "Cloaked Skull",
+        "img": "https:\/\/static.wikia.nocookie.net\/minecraft_gamepedia\/images\/d\/d4\/Cloaked_Skull_%28MCD%29.png\/revision\/latest?cb=20221023030110",
+        "rarity": "COMMON~RARE",
+        "properties": "^+50% souls~6% life steal aura",
+        "enchantments": ""
+    },
+    {
+        "id": "Curious_Armor",
+        "name": "Curious Armor",
+        "img": "https:\/\/static.wikia.nocookie.net\/minecraft_gamepedia\/images\/a\/af\/Curious_Armor_%28MCD%29.png\/revision\/latest?cb=20200602030715",
+        "rarity": "UNIQUE",
+        "properties": "^35% damage reduction~+50% souls gathered~6% life steal aura",
+        "enchantments": ""
+    },
+    {
+        "id": "Dark_Armor",
+        "name": "Dark Armor",
+        "img": "https:\/\/static.wikia.nocookie.net\/minecraft_gamepedia\/images\/c\/ce\/Dark_Armor_%28MCD%29.png\/revision\/latest?cb=20200602040025",
+        "rarity": "COMMON~RARE",
+        "properties": "^-40% artifact cooldown~+10 arrows per bundle",
+        "enchantments": ""
+    },
+    {
+        "id": "Ember_Robe",
+        "name": "Ember Robe",
+        "img": "https:\/\/static.wikia.nocookie.net\/minecraft_gamepedia\/images\/1\/17\/Ember_Robe_%28MCD%29.png\/revision\/latest?cb=20201219174824",
+        "rarity": "COMMON~RARE",
+        "properties": "^+10 arrows per bundle~+30% ranged damage",
+        "enchantments": ""
+    },
+    {
+        "id": "Emerald_Gear",
+        "name": "Emerald Gear",
+        "img": "https:\/\/static.wikia.nocookie.net\/minecraft_gamepedia\/images\/7\/7b\/Emerald_Gear_%28MCD%29.png\/revision\/latest?cb=20201212155529",
+        "rarity": "UNIQUE",
+        "properties": "^+10 arrows per bundle~+30% ranged damage~+15% movespeed aura",
+        "enchantments": ""
+    },
+    {
+        "id": "Entertainer%27s_Garb",
+        "name": "Entertainer's Garb",
+        "img": "https:\/\/static.wikia.nocookie.net\/minecraft_gamepedia\/images\/3\/35\/Entertainer%27s_Garb_%28MCD%29.png\/revision\/latest?cb=20210729193613",
+        "rarity": "COMMON~RARE",
+        "properties": "^35% damage~+20% weapon",
+        "enchantments": ""
+    },
+    {
+        "id": "Evocation_Robe",
+        "name": "Evocation Robe",
+        "img": "https:\/\/static.wikia.nocookie.net\/minecraft_gamepedia\/images\/1\/15\/Evocation_Robe_%28MCD%29.png\/revision\/latest?cb=20200526190658",
+        "rarity": "UNIQUE",
+        "properties": "^35% damage reduction~+20% weapon damage boost aura~+25% melee attack speed",
+        "enchantments": ""
+    },
+    {
+        "id": "Fox_Armor",
+        "name": "Fox Armor",
+        "img": "https:\/\/static.wikia.nocookie.net\/minecraft_gamepedia\/images\/2\/2e\/Fox_Armor_%28MCD%29.png\/revision\/latest?cb=20200409044154",
+        "rarity": "COMMON~RARE",
+        "properties": "",
+        "enchantments": ""
+    },
+    {
+        "id": "Frost_Armor",
+        "name": "Frost Armor",
+        "img": "https:\/\/static.wikia.nocookie.net\/minecraft_gamepedia\/images\/e\/ed\/Frost_Armor_%28MCD%29.png\/revision\/latest?cb=20210209062459",
+        "rarity": "COMMON~RARE",
+        "properties": "^50% faster roll~35% damage reduction",
+        "enchantments": ""
+    },
+    {
+        "id": "Frost_Bite",
+        "name": "Frost Bite",
+        "img": "https:\/\/static.wikia.nocookie.net\/minecraft_gamepedia\/images\/5\/58\/Frost_Bite_%28MCD%29.png\/revision\/latest?cb=20200602034209",
+        "rarity": "UNIQUE",
+        "properties": "^50% faster roll~35% damage reduction~Brief invulnerability when rolling",
+        "enchantments": ""
+    },
+    {
+        "id": "Full_Metal_Armor",
+        "name": "Full Metal Armor",
+        "img": "https:\/\/static.wikia.nocookie.net\/minecraft_gamepedia\/images\/5\/57\/Full_Metal_Armor_%28MCD%29.png\/revision\/latest?cb=20201219180052",
+        "rarity": "COMMON~RARE",
+        "properties": "^Reset artifact cooldown on potion use~+50% artifact damage",
+        "enchantments": ""
+    },
+    {
+        "id": "Ghostly_Armor",
+        "name": "Ghostly Armor",
+        "img": "https:\/\/static.wikia.nocookie.net\/minecraft_gamepedia\/images\/0\/0d\/Ghostly_Armor_%28MCD%29.png\/revision\/latest?cb=20200909110209",
+        "rarity": "UNIQUE",
+        "properties": "^Reset artifact cooldown on potion use~+50% artifact damage~Can get consumable on potion use",
+        "enchantments": "^Surprise Gift"
+    },
+    {
+        "id": "Ghost_Kindler",
+        "name": "Ghost Kindler",
+        "img": "https:\/\/static.wikia.nocookie.net\/minecraft_gamepedia\/images\/5\/57\/Ghost_Kindler_%28MCD%29.png\/revision\/latest?cb=20200909110205",
+        "rarity": "COMMON~RARE",
+        "properties": "^Reset artifact cooldown on potion use~Health potions heal nearby allies",
+        "enchantments": ""
+    },
+    {
+        "id": "Gilded_Glory",
+        "name": "Gilded Glory",
+        "img": "https:\/\/static.wikia.nocookie.net\/minecraft_gamepedia\/images\/0\/00\/Gilded_Glory_%28MCD%29.png\/revision\/latest?cb=20201212160714",
+        "rarity": "UNIQUE",
+        "properties": "^Reset artifact cooldown on potion use~Health potions heal nearby allies~Create food on potion use",
+        "enchantments": "^Food Reserves"
+    },
+    {
+        "id": "Glow_Squid_Armor",
+        "name": "Glow Squid Armor",
+        "img": "https:\/\/static.wikia.nocookie.net\/minecraft_gamepedia\/images\/d\/da\/Glow_Squid_Armor_%28MCD%29.png\/revision\/latest?cb=20210526181949",
+        "rarity": "COMMON~RARE",
+        "properties": "^35% damage~30% chance to negate hits~100% longer roll cooldown",
+        "enchantments": ""
+    },
+    {
+        "id": "Goat_Gear",
+        "name": "Goat Gear",
+        "img": "https:\/\/static.wikia.nocookie.net\/minecraft_gamepedia\/images\/b\/b2\/Goat_Gear_%28MCD%29.png\/revision\/latest?cb=20201209124259",
+        "rarity": "UNIQUE",
+        "properties": "^35% damage~30% chance to negate hits~100% longer roll cooldown~Potion use boosts defense",
+        "enchantments": "^Potion Barrier"
+    },
+    {
+        "id": "Golden_Piglin_Armor",
+        "name": "Golden Piglin Armor",
+        "img": "https:\/\/static.wikia.nocookie.net\/minecraft_gamepedia\/images\/2\/2d\/Golden_Piglin_Armor_%28MCD%29.png\/revision\/latest?cb=20210225003233",
+        "rarity": "COMMON~RARE",
+        "properties": "^35% damage~+30% melee damage",
+        "enchantments": ""
+    },
+    {
+        "id": "Gourdian_Armor",
+        "name": "Gourdian Armor",
+        "img": "https:\/\/static.wikia.nocookie.net\/minecraft_gamepedia\/images\/5\/56\/Gourdian_Armor_%28MCD%29.png\/revision\/latest?cb=20211028060858",
+        "rarity": "UNIQUE",
+        "properties": "^35% damage~+30% melee~Gains speed after dodge",
+        "enchantments": "^Swiftfooted"
+    },
+    {
+        "id": "Grim_Armor",
+        "name": "Grim Armor",
+        "img": "https:\/\/static.wikia.nocookie.net\/minecraft_gamepedia\/images\/7\/70\/Grim_Armor_%28MCD%29.png\/revision\/latest?cb=20200407194730",
+        "rarity": "COMMON~RARE",
+        "properties": "^Mobs target you more often~Deflect enemy~Take less damage when swarmed",
+        "enchantments": "^Deflect~Thrive Under Pressure"
+    },
+    {
+        "id": "Guard%27s_Armor",
+        "name": "Guard's Armor",
+        "img": "https:\/\/static.wikia.nocookie.net\/minecraft_gamepedia\/images\/3\/39\/Guard%27s_Armor_%28MCD%29.png\/revision\/latest?cb=20200408233016",
+        "rarity": "UNIQUE",
+        "properties": "^Mobs target you more often~Deflect enemy~Take less damage when swarmed~Fire shulker projectiles at nearby enemies",
+        "enchantments": "^Deflect~Thrive Under Pressure"
+    },
+    {
+        "id": "Hero%27s_Armor",
+        "name": "Hero's Armor",
+        "img": "https:\/\/static.wikia.nocookie.net\/minecraft_gamepedia\/images\/6\/6a\/Hero%27s_Armor_%28MCD%29.png\/revision\/latest?cb=20200604202142",
+        "rarity": "COMMON~RARE",
+        "properties": "^+35% damage~+50% freezing resistance",
+        "enchantments": ""
+    },
+    {
+        "id": "Highland_Armor",
+        "name": "Highland Armor",
+        "img": "https:\/\/static.wikia.nocookie.net\/minecraft_gamepedia\/images\/3\/38\/Highland_Armor_%28MCD%29.png\/revision\/latest?cb=20200602024337",
+        "rarity": "UNIQUE",
+        "properties": "^+35% damage~+50% freezing~Emits a Chilling Aura",
+        "enchantments": "^Chilling"
+    },
+    {
+        "id": "Hungriest_Horror",
+        "name": "Hungriest Horror",
+        "img": "https:\/\/static.wikia.nocookie.net\/minecraft_gamepedia\/images\/f\/fc\/Hungriest_Horror_%28MCD%29.png\/revision\/latest?cb=20221023030414",
+        "rarity": "COMMON~RARE",
+        "properties": "^+50% soul~+50% artifact damage",
+        "enchantments": ""
+    },
+    {
+        "id": "Hungry_Horror",
+        "name": "Hungry Horror",
+        "img": "https:\/\/static.wikia.nocookie.net\/minecraft_gamepedia\/images\/f\/f9\/Hungry_Horror_%28MCD%29.png\/revision\/latest?cb=20201219175857",
+        "rarity": "UNIQUE",
+        "properties": "^+50% soul~+50% artifact~30% chance to negate hits",
+        "enchantments": ""
+    },
+    {
+        "id": "Hunter%27s_Armor",
+        "name": "Hunter's Armor",
+        "img": "https:\/\/static.wikia.nocookie.net\/minecraft_gamepedia\/images\/2\/28\/Hunter%27s_Armor_%28MCD%29.png\/revision\/latest?cb=20200407190417",
+        "rarity": "COMMON~RARE",
+        "properties": "^+20% weapon damage boost aura~Gives player a pet bat",
+        "enchantments": ""
+    },
+    {
+        "id": "Living_Vines_Armor",
+        "name": "Living Vines Armor",
+        "img": "https:\/\/static.wikia.nocookie.net\/minecraft_gamepedia\/images\/b\/b2\/Living_Vines_Armor_%28MCD%29.png\/revision\/latest?cb=20221023033758",
+        "rarity": "UNIQUE",
+        "properties": "^+20% weapon~Gives player a pet bat~+50% artifact damage",
+        "enchantments": ""
+    },
+    {
+        "id": "Mercenary_Armor",
+        "name": "Mercenary Armor",
+        "img": "https:\/\/static.wikia.nocookie.net\/minecraft_gamepedia\/images\/1\/13\/Mercenary_Armor_%28MCD%29.png\/revision\/latest?cb=20210203190533",
+        "rarity": "COMMON~RARE",
+        "properties": "^Health potions heal nearby allies~Traps and poisons nearby mobs when rolling",
+        "enchantments": ""
+    },
+    {
+        "id": "Mystery_Armor",
+        "name": "Mystery Armor",
+        "img": "https:\/\/static.wikia.nocookie.net\/minecraft_gamepedia\/images\/0\/00\/Mystery_Armor_%28MCD%29.png\/revision\/latest?cb=20200407194907",
+        "rarity": "UNIQUE",
+        "properties": "^Health potions heal nearby allies~Traps and poisons nearby mobs when rolling~Reduced roll cooldown",
+        "enchantments": "^Acrobat"
+    },
+    {
+        "id": "Nimble_Turtle_Armor",
+        "name": "Nimble Turtle Armor",
+        "img": "https:\/\/static.wikia.nocookie.net\/minecraft_gamepedia\/images\/6\/65\/Nimble_Turtle_Armor_%28MCD%29.png\/revision\/latest?cb=20210526181954",
+        "rarity": "COMMON~RARE",
+        "properties": "^+25% melee attack speed",
+        "enchantments": ""
+    },
+    {
+        "id": "Ocelot_Armor",
+        "name": "Ocelot Armor",
+        "img": "https:\/\/static.wikia.nocookie.net\/minecraft_gamepedia\/images\/4\/4a\/Ocelot_Armor_%28MCD%29.png\/revision\/latest?cb=20200602024913",
+        "rarity": "UNIQUE",
+        "properties": "^+25% melee attack speed~6% life steal aura",
+        "enchantments": ""
+    },
+    {
+        "id": "Opulent_Armor",
+        "name": "Opulent Armor",
+        "img": "https:\/\/static.wikia.nocookie.net\/minecraft_gamepedia\/images\/8\/83\/Opulent_Armor_%28MCD%29.png\/revision\/latest?cb=20201209150257",
+        "rarity": "COMMON~RARE",
+        "properties": "^Roll to teleport~+50% souls gathered",
+        "enchantments": ""
+    },
+    {
+        "id": "Phantom_Armor",
+        "name": "Phantom Armor",
+        "img": "https:\/\/static.wikia.nocookie.net\/minecraft_gamepedia\/images\/0\/0a\/Phantom_Armor_%28MCD%29.png\/revision\/latest?cb=20200602025718",
+        "rarity": "UNIQUE",
+        "properties": "^Roll to teleport~+50% souls gathered~Trigger explosion on rolling teleport",
+        "enchantments": ""
+    },
+    {
+        "id": "Piglin_Armor",
+        "name": "Piglin Armor",
+        "img": "https:\/\/static.wikia.nocookie.net\/minecraft_gamepedia\/images\/6\/6a\/Piglin_Armor_%28MCD%29.png\/revision\/latest?cb=20210225002933",
+        "rarity": "COMMON~RARE",
+        "properties": "^35% damage~25% healing boost",
+        "enchantments": ""
+    },
+    {
+        "id": "Plate_Armor",
+        "name": "Plate Armor",
+        "img": "https:\/\/static.wikia.nocookie.net\/minecraft_gamepedia\/images\/9\/96\/Plate_Armor_%28MCD%29.png\/revision\/latest?cb=20201003094142",
+        "rarity": "UNIQUE",
+        "properties": "^35% damage~25% healing boost~Boost speed after hit",
+        "enchantments": "^Rush"
+    },
+    {
+        "id": "Reinforced_Mail",
+        "name": "Reinforced Mail",
+        "img": "https:\/\/static.wikia.nocookie.net\/minecraft_gamepedia\/images\/0\/07\/Reinforced_Mail_%28MCD%29.png\/revision\/latest?cb=20200602025945",
+        "rarity": "COMMON~RARE",
+        "properties": "^+20% weapon damage boost aura~Health potions heal nearby allies",
+        "enchantments": ""
+    },
+    {
+        "id": "Renegade_Armor",
+        "name": "Renegade Armor",
+        "img": "https:\/\/static.wikia.nocookie.net\/minecraft_gamepedia\/images\/6\/6c\/Renegade_Armor_%28MCD%29.png\/revision\/latest?cb=20200602034320",
+        "rarity": "UNIQUE",
+        "properties": "^+20% weapon~Health potions heal nearby allies~Roll cooldown reduced",
+        "enchantments": "^Acrobat"
+    },
+    {
+        "id": "Root_Rot_Armor",
+        "name": "Root Rot Armor",
+        "img": "https:\/\/static.wikia.nocookie.net\/minecraft_gamepedia\/images\/0\/05\/Root_Rot_Armor_%28MCD%29.png\/revision\/latest?cb=20221023031227",
+        "rarity": "UNIQUE",
+        "properties": "^+20% weapon~Health potions heal nearby allies~30% chance to negate hits",
+        "enchantments": ""
+    },
+    {
+        "id": "Rugged_Climbing_Gear",
+        "name": "Rugged Climbing Gear",
+        "img": "https:\/\/static.wikia.nocookie.net\/minecraft_gamepedia\/images\/f\/f4\/Rugged_Climbing_Gear_%28MCD%29.png\/revision\/latest?cb=20201209124630",
+        "rarity": "COMMON~RARE",
+        "properties": "^+50% souls~+30% ranged damage",
+        "enchantments": ""
+    },
+    {
+        "id": "Scale_Mail",
+        "name": "Scale Mail",
+        "img": "https:\/\/static.wikia.nocookie.net\/minecraft_gamepedia\/images\/9\/95\/Scale_Mail_%28MCD%29.png\/revision\/latest?cb=20201219180356",
+        "rarity": "UNIQUE",
+        "properties": "^+50% souls~+30% ranged~Spawns a snowy companion",
+        "enchantments": "^Snowball"
+    },
+    {
+        "id": "Shadow_Walker",
+        "name": "Shadow Walker",
+        "img": "https:\/\/static.wikia.nocookie.net\/minecraft_gamepedia\/images\/e\/e1\/Shadow_Walker_%28MCD%29.png\/revision\/latest?cb=20200602025417",
+        "rarity": "COMMON~RARE",
+        "properties": "^30% chance to negate hits~35% damage~100% longer roll cooldown",
+        "enchantments": ""
+    },
+    {
+        "id": "Shulker_Armor",
+        "name": "Shulker Armor",
+        "img": "https:\/\/static.wikia.nocookie.net\/minecraft_gamepedia\/images\/d\/de\/Shulker_Armor_%28MCD%29.png\/revision\/latest?cb=20210729193757",
+        "rarity": "UNIQUE",
+        "properties": "^30% chance to negate hits~35% damage~100% longer roll cooldown~+30% melee damage",
+        "enchantments": ""
+    },
+    {
+        "id": "Snow_Armor",
+        "name": "Snow Armor",
+        "img": "https:\/\/static.wikia.nocookie.net\/minecraft_gamepedia\/images\/8\/8f\/Snow_Armor_%28MCD%29.png\/revision\/latest?cb=20200601193920",
+        "rarity": "COMMON~RARE",
+        "properties": "^+15% movespeed aura~Release an ink cloud when rolling",
+        "enchantments": ""
+    },
+    {
+        "id": "Souldancer_Robe",
+        "name": "Souldancer Robe",
+        "img": "https:\/\/static.wikia.nocookie.net\/minecraft_gamepedia\/images\/d\/de\/Souldancer_Robe_%28MCD%29.png\/revision\/latest?cb=20200410145113",
+        "rarity": "UNIQUE",
+        "properties": "^+15% movespeed aura~Release an ink cloud when rolling~Brief invulnerability when rolling",
+        "enchantments": ""
+    },
+    {
+        "id": "Soul_Robe",
+        "name": "Soul Robe",
+        "img": "https:\/\/static.wikia.nocookie.net\/minecraft_gamepedia\/images\/f\/fd\/Soul_Robe_%28MCD%29.png\/revision\/latest?cb=20200602034457",
+        "rarity": "COMMON~RARE",
+        "properties": "^-40% artifact cooldown~+30% melee damage",
+        "enchantments": ""
+    },
+    {
+        "id": "Spelunker_Armor",
+        "name": "Spelunker Armor",
+        "img": "https:\/\/static.wikia.nocookie.net\/minecraft_gamepedia\/images\/7\/7c\/Spelunker_Armor_%28MCD%29.png\/revision\/latest?cb=20201219180429",
+        "rarity": "UNIQUE",
+        "properties": "^-40% artifact cooldown~+30% melee~+50% artifact damage",
+        "enchantments": ""
+    },
+    {
+        "id": "Spider_Armor",
+        "name": "Spider Armor",
+        "img": "https:\/\/static.wikia.nocookie.net\/minecraft_gamepedia\/images\/c\/c8\/Spider_Armor_%28MCD%29.png\/revision\/latest?cb=20200531175800",
+        "rarity": "COMMON~RARE",
+        "properties": "^35% damage~Mobs target you more~-40% potion cooldown",
+        "enchantments": ""
+    },
+    {
+        "id": "Splendid_Robe",
+        "name": "Splendid Robe",
+        "img": "https:\/\/static.wikia.nocookie.net\/minecraft_gamepedia\/images\/2\/2c\/Splendid_Robe_%28MCD%29.png\/revision\/latest?cb=20200602034539",
+        "rarity": "UNIQUE",
+        "properties": "^35% damage~Mobs target you more~-40% potion~Health potions heal nearby allies",
+        "enchantments": ""
+    },
+    {
+        "id": "Sprout_Armor",
+        "name": "Sprout Armor",
+        "img": "https:\/\/static.wikia.nocookie.net\/minecraft_gamepedia\/images\/3\/3a\/Sprout_Armor_%28MCD%29.png\/revision\/latest?cb=20230225223742",
+        "rarity": "COMMON~RARE",
+        "properties": "^35% damage~+50% souls gathered",
+        "enchantments": ""
+    },
+    {
+        "id": "Squid_Armor",
+        "name": "Squid Armor",
+        "img": "https:\/\/static.wikia.nocookie.net\/minecraft_gamepedia\/images\/c\/cb\/Squid_Armor_%28MCD%29.png\/revision\/latest?cb=20210526182000",
+        "rarity": "UNIQUE",
+        "properties": "^35% damage~+50% souls~+20% weapon",
+        "enchantments": ""
+    },
+    {
+        "id": "Stalwart_Armor",
+        "name": "Stalwart Armor",
+        "img": "https:\/\/static.wikia.nocookie.net\/minecraft_gamepedia\/images\/6\/61\/Stalwart_Armor_%28MCD%29.png\/revision\/latest?cb=20200602030243",
+        "rarity": "COMMON~RARE",
+        "properties": "^Briefly gain Ghost Form when rolling~30% chance to negate hits",
+        "enchantments": ""
+    },
+    {
+        "id": "Sturdy_Shulker_Armor",
+        "name": "Sturdy Shulker Armor",
+        "img": "https:\/\/static.wikia.nocookie.net\/minecraft_gamepedia\/images\/d\/d3\/Sturdy_Shulker_Armor_%28MCD%29.png\/revision\/latest?cb=20210729193840",
+        "rarity": "UNIQUE",
+        "properties": "^Briefly gain Ghost Form when rolling~30% chance to negate hits~Spawn fire on roll",
+        "enchantments": "^Fire Trail"
+    },
+    {
+        "id": "Sweet_Tooth",
+        "name": "Sweet Tooth",
+        "img": "https:\/\/static.wikia.nocookie.net\/minecraft_gamepedia\/images\/2\/2f\/Sweet_Tooth_%28MCD%29.png\/revision\/latest?cb=20210526185335",
+        "rarity": "COMMON~RARE",
+        "properties": "^30% chance to summon a bee when hit (max 3)~Health potions heal nearby allies",
+        "enchantments": ""
+    },
+    {
+        "id": "Teleportation_Robes",
+        "name": "Teleportation Robes",
+        "img": "https:\/\/static.wikia.nocookie.net\/minecraft_gamepedia\/images\/3\/35\/Teleportation_Robes_%28MCD%29.png\/revision\/latest?cb=20210729193222",
+        "rarity": "UNIQUE",
+        "properties": "^30% chance to summon a bee when hit (max 3)~Health potions heal nearby allies~35% damage reduction",
+        "enchantments": ""
+    },
+    {
+        "id": "The_Troubadour",
+        "name": "The Troubadour",
+        "img": "https:\/\/static.wikia.nocookie.net\/minecraft_gamepedia\/images\/9\/93\/The_Troubadour_%28MCD%29.png\/revision\/latest?cb=20210806104722",
+        "rarity": "UNIQUE",
+        "properties": "^35% damage reduction~+20% weapon damage boost aura~+25% melee attack speed~Special event item",
+        "enchantments": ""
+    },
+    {
+        "id": "Thief_Armor",
+        "name": "Thief Armor",
+        "img": "https:\/\/static.wikia.nocookie.net\/minecraft_gamepedia\/images\/5\/5d\/Thief_Armor_%28MCD%29.png\/revision\/latest?cb=20200531174902",
+        "rarity": "UNIQUE",
+        "properties": "^+20% weapon~Health potions heal nearby allies~30% chance to negate hits~Special event item",
+        "enchantments": ""
+    },
+    {
+        "id": "Titan%27s_Shroud",
+        "name": "Titan's Shroud",
+        "img": "https:\/\/static.wikia.nocookie.net\/minecraft_gamepedia\/images\/8\/85\/Titan%27s_Shroud_%28MCD%29.png\/revision\/latest?cb=20200602040329",
+        "rarity": "UNIQUE",
+        "properties": "^+20% weapon damage boost aura~Gives player a pet bat~+50% artifact damage~Special event item",
+        "enchantments": ""
+    },
+    {
+        "id": "Turtle_Armor",
+        "name": "Turtle Armor",
+        "img": "https:\/\/static.wikia.nocookie.net\/minecraft_gamepedia\/images\/2\/23\/Turtle_Armor_%28MCD%29.png\/revision\/latest?cb=20210526182001",
+        "rarity": "UNIQUE",
+        "properties": "^30% chance to negate hits~35% damage~100% longer roll cooldown~+30% melee~Special event item",
+        "enchantments": ""
+    },
+    {
+        "id": "Unstable_Robes",
+        "name": "Unstable Robes",
+        "img": "https:\/\/static.wikia.nocookie.net\/minecraft_gamepedia\/images\/d\/d3\/Unstable_Robes_%28MCD%29.png\/revision\/latest?cb=20210729193258",
+        "rarity": "UNIQUE",
+        "properties": "^35% damage reduction~+50% souls gathered~6% life steal aura~Special event item",
+        "enchantments": ""
+    },
+    {
+        "id": "Verdant_Robe",
+        "name": "Verdant Robe",
+        "img": "https:\/\/static.wikia.nocookie.net\/minecraft_gamepedia\/images\/0\/04\/Verdant_Robe_%28MCD%29.png\/revision\/latest?cb=20210104183330",
+        "rarity": "UNIQUE",
+        "properties": "^Briefly gain Ghost Form when rolling~30% chance to negate hits~Spawn fire on roll~Special event item",
+        "enchantments": "^Fire Trail"
+    },
+    {
+        "id": "Wither_Armor",
+        "name": "Wither Armor",
+        "img": "https:\/\/static.wikia.nocookie.net\/minecraft_gamepedia\/images\/7\/77\/Wither_Armor_%28MCD%29.png\/revision\/latest?cb=20201219175639",
+        "rarity": "UNIQUE",
+        "properties": "^35% damage reduction~+20% weapon damage boost aura~+25% melee attack speed~Special event item",
+        "enchantments": ""
+    },
+    {
+        "id": "Wolf_Armor",
+        "name": "Wolf Armor",
+        "img": "https:\/\/static.wikia.nocookie.net\/minecraft_gamepedia\/images\/f\/fc\/Wolf_Armor_%28MCD%29.png\/revision\/latest?cb=20200408223628",
+        "rarity": "UNIQUE",
+        "properties": "",
+        "enchantments": ""
+    }
+]

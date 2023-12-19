@@ -2,12 +2,19 @@
     font-family: Pixel;
     src: url("../fonts/PixelFont.ttf");
 }
+:hover {
+    cursor: url("../cursor/MDPointer.cur"), pointer;
+}
+:focus {
+    cursor: url("../cursor/MDText.cur"), pointer;
+}
 html {
     background-image: linear-gradient(rgba(0, 0, 0, 0),rgba(0, 0, 0, .8)) , url("../img/Background.jpg");
     height: 100%;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    background-attachment: fixed;
 }
 body {
     font-family: Pixel;

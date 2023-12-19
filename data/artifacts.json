@@ -1,1 +1,317 @@
-[]
+[
+    {
+        "id": "Blast_Fungus",
+        "name": "Blast Fungus",
+        "img": "https:\/\/static.wikia.nocookie.net\/minecraft_gamepedia\/images\/4\/40\/Blast_Fungus_%28MCD%29.png\/revision\/latest?cb=20210224205323",
+        "rarity": "COMMON~RARE",
+        "properties": "%X artifact damage per second~2.5 Seconds cooldown~+1 Soul Gathering~Requires souls (20 per second)"
+    },
+    {
+        "id": "Boots_of_Swiftness",
+        "name": "Boots of Swiftness",
+        "img": "https:\/\/static.wikia.nocookie.net\/minecraft_gamepedia\/images\/f\/fc\/Boots_of_Swiftness_%28MCD%29.png\/revision\/latest?cb=20201219032322",
+        "rarity": "COMMON~RARE",
+        "properties": "%X artifact damage~X second stun duration~7 targets maximum~12 second cooldown"
+    },
+    {
+        "id": "Buzzy_Nest",
+        "name": "Buzzy Nest",
+        "img": "https:\/\/static.wikia.nocookie.net\/minecraft_gamepedia\/images\/f\/f9\/Buzzy_Nest_%28MCD%29.png\/revision\/latest?cb=20200908184624",
+        "rarity": "COMMON~RARE",
+        "properties": "%X artifact damage~4 second cooldown~+1 soul gathering~Requires souls (40)"
+    },
+    {
+        "id": "Corrupted_Beacon",
+        "name": "Corrupted Beacon",
+        "img": "https:\/\/static.wikia.nocookie.net\/minecraft_gamepedia\/images\/b\/b9\/Corrupted_Beacon_%28MCD%29.png\/revision\/latest?cb=20201219032626",
+        "rarity": "COMMON~RARE",
+        "properties": "%X artifact damage~2 second cooldown~+1 soul gathering~Requires souls (15)"
+    },
+    {
+        "id": "Corrupted_Pumpkin",
+        "name": "Corrupted Pumpkin",
+        "img": "https:\/\/static.wikia.nocookie.net\/minecraft_gamepedia\/images\/c\/c7\/Corrupted_Pumpkin_%28MCD%29.png\/revision\/latest?cb=20201219032602",
+        "rarity": "COMMON~RARE",
+        "properties": "%X x3 artifact damage~12 second cooldown"
+    },
+    {
+        "id": "Corrupted_Seeds",
+        "name": "Corrupted Seeds",
+        "img": "https:\/\/static.wikia.nocookie.net\/minecraft_gamepedia\/images\/6\/65\/Corrupted_Seeds_%28MCD%29.png\/revision\/latest?cb=20201219033303",
+        "rarity": "COMMON~RARE",
+        "properties": "%X artifact damage~6 second cooldown"
+    },
+    {
+        "id": "Death_Cap_Mushroom",
+        "name": "Death Cap Mushroom",
+        "img": "https:\/\/static.wikia.nocookie.net\/minecraft_gamepedia\/images\/b\/bb\/Death_Cap_Mushroom_%28MCD%29.png\/revision\/latest?cb=20201219032543",
+        "rarity": "COMMON~RARE",
+        "properties": "%X artifact damage~5 second cooldown"
+    },
+    {
+        "id": "Enchanted_Grass",
+        "name": "Enchanted Grass",
+        "img": "https:\/\/static.wikia.nocookie.net\/minecraft_gamepedia\/images\/e\/e7\/Enchanted_Grass_%28MCD%29.png\/revision\/latest?cb=20200908190618",
+        "rarity": "COMMON~RARE",
+        "properties": "%X artifact damage per second~22 second cooldown"
+    },
+    {
+        "id": "Enchanter%27s_Tome",
+        "name": "Enchanter's Tome",
+        "img": "https:\/\/static.wikia.nocookie.net\/minecraft_gamepedia\/images\/e\/e8\/Enchanter%27s_Tome_%28MCD%29.png\/revision\/latest?cb=20201209130433",
+        "rarity": "UNIQUE",
+        "properties": "%X artifact damage per second~2.5 Seconds cooldown~+1 Soul Gathering~Requires souls (20 per second)~Special event item"
+    },
+    {
+        "id": "Eye_of_the_Guardian",
+        "name": "Eye of the Guardian",
+        "img": "https:\/\/static.wikia.nocookie.net\/minecraft_gamepedia\/images\/f\/f5\/Eye_of_the_Guardian_%28MCD%29.png\/revision\/latest?cb=20210526181948",
+        "rarity": "COMMON~RARE",
+        "properties": "%X damage per second~Briefly entangles mobs~Poisons entangled mobs~20 second cooldown"
+    },
+    {
+        "id": "Fireworks_Arrow",
+        "name": "Fireworks Arrow",
+        "img": "https:\/\/static.wikia.nocookie.net\/minecraft_gamepedia\/images\/0\/0e\/Fireworks_Arrow_%28MCD%29.png\/revision\/latest?cb=20201219032512",
+        "rarity": "COMMON~RARE",
+        "properties": "%X second stun duration~1.5 second cooldown"
+    },
+    {
+        "id": "Fishing_Rod",
+        "name": "Fishing Rod",
+        "img": "https:\/\/static.wikia.nocookie.net\/minecraft_gamepedia\/images\/6\/6d\/Fishing_Rod_%28MCD%29.png\/revision\/latest?cb=20200408033649",
+        "rarity": "COMMON~RARE",
+        "properties": "%X second duration~20 seconds cooldown"
+    },
+    {
+        "id": "Flaming_Quiver",
+        "name": "Flaming Quiver",
+        "img": "https:\/\/static.wikia.nocookie.net\/minecraft_gamepedia\/images\/5\/5b\/Flaming_Quiver_%28MCD%29.png\/revision\/latest?cb=20200407202612",
+        "rarity": "COMMON~RARE",
+        "properties": "%X artifact damage~Stuns Mobs~15 seconds cooldown"
+    },
+    {
+        "id": "Ghost_Cloak",
+        "name": "Ghost Cloak",
+        "img": "https:\/\/static.wikia.nocookie.net\/minecraft_gamepedia\/images\/6\/60\/Ghost_Cloak_%28MCD%29.png\/revision\/latest?cb=20200602034656",
+        "rarity": "COMMON~RARE",
+        "properties": "%+X% boosted damage~30 seconds cooldown"
+    },
+    {
+        "id": "Golem_Kit",
+        "name": "Golem Kit",
+        "img": "https:\/\/static.wikia.nocookie.net\/minecraft_gamepedia\/images\/e\/e9\/Golem_Kit_%28MCD%29.png\/revision\/latest?cb=20201219032346",
+        "rarity": "COMMON~RARE",
+        "properties": "%X artifact damage~7 targets maximum~10 second cooldown"
+    },
+    {
+        "id": "Gong_of_Weakening",
+        "name": "Gong of Weakening",
+        "img": "https:\/\/static.wikia.nocookie.net\/minecraft_gamepedia\/images\/9\/99\/Gong_of_Weakening_%28MCD%29.png\/revision\/latest?cb=20210111174431",
+        "rarity": "COMMON~RARE",
+        "properties": "%X seconds stun duration~15 seconds cooldown"
+    },
+    {
+        "id": "Harpoon_Quiver",
+        "name": "Harpoon Quiver",
+        "img": "https:\/\/static.wikia.nocookie.net\/minecraft_gamepedia\/images\/b\/bd\/Harpoon_Quiver_%28MCD%29.png\/revision\/latest?cb=20210526181951",
+        "rarity": "COMMON~RARE",
+        "properties": "%X ranged damage~30 seconds cooldown"
+    },
+    {
+        "id": "Harvester",
+        "name": "Harvester",
+        "img": "https:\/\/static.wikia.nocookie.net\/minecraft_gamepedia\/images\/0\/06\/Harvester_%28MCD%29.png\/revision\/latest?cb=20201219032710",
+        "rarity": "COMMON~RARE",
+        "properties": "%X ranged damaged per second~30 seconds cooldown"
+    },
+    {
+        "id": "Ice_Wand",
+        "name": "Ice Wand",
+        "img": "https:\/\/static.wikia.nocookie.net\/minecraft_gamepedia\/images\/b\/bf\/Ice_Wand_%28MCD%29.png\/revision\/latest?cb=20200909050805",
+        "rarity": "COMMON~RARE",
+        "properties": "%X ranged damage~6 second cooldown~+1 soul gathering~Requires souls (10)"
+    },
+    {
+        "id": "Iron_Hide_Amulet",
+        "name": "Iron Hide Amulet",
+        "img": "https:\/\/static.wikia.nocookie.net\/minecraft_gamepedia\/images\/9\/9f\/Iron_Hide_Amulet_%28MCD%29.png\/revision\/latest?cb=20201219032723",
+        "rarity": "COMMON~RARE",
+        "properties": "%X ranged damage~30 second cooldown"
+    },
+    {
+        "id": "Lightning_Rod",
+        "name": "Lightning Rod",
+        "img": "https:\/\/static.wikia.nocookie.net\/minecraft_gamepedia\/images\/c\/c8\/Lightning_Rod_%28MCD%29.png\/revision\/latest?cb=20200601224752",
+        "rarity": "COMMON~RARE",
+        "properties": "%X ranged damage~30 second cooldown"
+    },
+    {
+        "id": "Light_Feather",
+        "name": "Light Feather",
+        "img": "https:\/\/static.wikia.nocookie.net\/minecraft_gamepedia\/images\/8\/80\/Light_Feather_%28MCD%29.png\/revision\/latest?cb=20201219032739",
+        "rarity": "COMMON~RARE",
+        "properties": "%X summon damage~23 second cooldown"
+    },
+    {
+        "id": "Love_Medallion",
+        "name": "Love Medallion",
+        "img": "https:\/\/static.wikia.nocookie.net\/minecraft_gamepedia\/images\/c\/cb\/Love_Medallion_%28MCD%29.png\/revision\/latest?cb=20201219033011",
+        "rarity": "COMMON~RARE",
+        "properties": "%X summon damage~30 second cooldown"
+    },
+    {
+        "id": "Powershaker",
+        "name": "Powershaker",
+        "img": "https:\/\/static.wikia.nocookie.net\/minecraft_gamepedia\/images\/4\/46\/Powershaker_%28MCD%29.png\/revision\/latest?cb=20210224195904",
+        "rarity": "COMMON~RARE",
+        "properties": "%X summon damage~30 seconds cooldown"
+    },
+    {
+        "id": "Satchel_of_Elements",
+        "name": "Satchel of Elements",
+        "img": "https:\/\/static.wikia.nocookie.net\/minecraft_gamepedia\/images\/8\/84\/Satchel_of_Elements_%28MCD%29.png\/revision\/latest?cb=20201209125045",
+        "rarity": "COMMON~RARE",
+        "properties": "%X summon damage~5 seconds cooldown~+1 soul gathering~Requires souls (60)"
+    },
+    {
+        "id": "Satchel_of_Elixirs",
+        "name": "Satchel of Elixirs",
+        "img": "https:\/\/static.wikia.nocookie.net\/minecraft_gamepedia\/images\/5\/54\/Satchel_of_Elixirs_%28MCD%29.png\/revision\/latest?cb=20210526181956",
+        "rarity": "COMMON~RARE",
+        "properties": "%X summon damage~30 second cooldown"
+    },
+    {
+        "id": "Satchel_of_Snacks",
+        "name": "Satchel of Snacks",
+        "img": "https:\/\/static.wikia.nocookie.net\/minecraft_gamepedia\/images\/3\/3c\/Satchel_of_Snacks_%28MCD%29.png\/revision\/latest?cb=20210526181958",
+        "rarity": "COMMON~RARE",
+        "properties": "%X summon damage~30 second cooldown"
+    },
+    {
+        "id": "Scatter_Mines",
+        "name": "Scatter Mines",
+        "img": "https:\/\/static.wikia.nocookie.net\/minecraft_gamepedia\/images\/3\/32\/Scatter_Mines_%28MCD%29.png\/revision\/latest?cb=20201209125942",
+        "rarity": "COMMON~RARE",
+        "properties": "%X summon damage~30 seconds cooldown"
+    },
+    {
+        "id": "Shadow_Shifter",
+        "name": "Shadow Shifter",
+        "img": "https:\/\/static.wikia.nocookie.net\/minecraft_gamepedia\/images\/8\/8a\/Shadow_Shifter_%28MCD%29.png\/revision\/latest?cb=20210806104631",
+        "rarity": "COMMON~RARE",
+        "properties": "%X second duration~5 second cooldown"
+    },
+    {
+        "id": "Shock_Powder",
+        "name": "Shock Powder",
+        "img": "https:\/\/static.wikia.nocookie.net\/minecraft_gamepedia\/images\/6\/66\/Shock_Powder_%28MCD%29.png\/revision\/latest?cb=20200530233317",
+        "rarity": "COMMON~RARE",
+        "properties": "%X second duration~30 second duration"
+    },
+    {
+        "id": "Soul_Healer",
+        "name": "Soul Healer",
+        "img": "https:\/\/static.wikia.nocookie.net\/minecraft_gamepedia\/images\/a\/ad\/Soul_Healer_%28MCD%29.png\/revision\/latest?cb=20201219033031",
+        "rarity": "COMMON~RARE",
+        "properties": "%+X% speed~6 second cooldown"
+    },
+    {
+        "id": "Soul_Lantern",
+        "name": "Soul Lantern",
+        "img": "https:\/\/static.wikia.nocookie.net\/minecraft_gamepedia\/images\/a\/a8\/Soul_Lantern_%28MCD%29.png\/revision\/latest?cb=20200908190431",
+        "rarity": "COMMON~RARE",
+        "properties": "%X seconds stun duration~Activates rolling triggers~3 seconds cooldown"
+    },
+    {
+        "id": "Spinblade",
+        "name": "Spinblade",
+        "img": "https:\/\/static.wikia.nocookie.net\/minecraft_gamepedia\/images\/7\/7c\/Spinblade_%28MCD%29.png\/revision\/latest?cb=20210224221222",
+        "rarity": "COMMON~RARE",
+        "properties": "%X second duration~15 second cooldown"
+    },
+    {
+        "id": "Tasty_Bone",
+        "name": "Tasty Bone",
+        "img": "https:\/\/static.wikia.nocookie.net\/minecraft_gamepedia\/images\/2\/2c\/Tasty_Bone_%28MCD%29.png\/revision\/latest?cb=20201219033054",
+        "rarity": "COMMON~RARE",
+        "properties": "%X seconds duration~25 seconds cooldown"
+    },
+    {
+        "id": "Thundering_Quiver",
+        "name": "Thundering Quiver",
+        "img": "https:\/\/static.wikia.nocookie.net\/minecraft_gamepedia\/images\/3\/34\/Thundering_Quiver_%28MCD%29.png\/revision\/latest?cb=20210224223407",
+        "rarity": "COMMON~RARE",
+        "properties": "%X second duration~10 second cooldown~+1 Soul Gathering~Requires Souls (40)"
+    },
+    {
+        "id": "Tome_of_Duplication",
+        "name": "Tome of Duplication",
+        "img": "https:\/\/static.wikia.nocookie.net\/minecraft_gamepedia\/images\/2\/26\/Tome_of_Duplication_%28MCD%29.png\/revision\/latest?cb=20210806104608",
+        "rarity": "COMMON~RARE",
+        "properties": "%X health healed~5 second cooldown~+1 Soul Gathering~Requires souls"
+    },
+    {
+        "id": "Torment_Quiver",
+        "name": "Torment Quiver",
+        "img": "https:\/\/static.wikia.nocookie.net\/minecraft_gamepedia\/images\/6\/6d\/Torment_Quiver_%28MCD%29.png\/revision\/latest?cb=20200408035000",
+        "rarity": "COMMON~RARE",
+        "properties": "%X% double item chance~10 second cooldown~+1 soul gathering~Requires souls"
+    },
+    {
+        "id": "Totem_of_Casting",
+        "name": "Totem of Casting",
+        "img": "https:\/\/static.wikia.nocookie.net\/minecraft_gamepedia\/images\/3\/3f\/Totem_of_Casting_%28MCD%29.png\/revision\/latest?cb=20221023031500",
+        "rarity": "COMMON~RARE",
+        "properties": "%X% range increase~10 second cooldown~+1 soul gathering~Requires souls"
+    },
+    {
+        "id": "Totem_of_Regeneration",
+        "name": "Totem of Regeneration",
+        "img": "https:\/\/static.wikia.nocookie.net\/minecraft_gamepedia\/images\/7\/76\/Totem_of_Regeneration_%28MCD%29.png\/revision\/latest?cb=20201219033144",
+        "rarity": "COMMON~RARE",
+        "properties": "%X health healed~25 seconds cooldown"
+    },
+    {
+        "id": "Totem_of_Shielding",
+        "name": "Totem of Shielding",
+        "img": "https:\/\/static.wikia.nocookie.net\/minecraft_gamepedia\/images\/4\/4d\/Totem_of_Shielding_%28MCD%29.png\/revision\/latest?cb=20200407184752",
+        "rarity": "COMMON~RARE",
+        "properties": "%X seconds duration~20 second cooldown"
+    },
+    {
+        "id": "Totem_of_Soul_Protection",
+        "name": "Totem of Soul Protection",
+        "img": "https:\/\/static.wikia.nocookie.net\/minecraft_gamepedia\/images\/2\/2c\/Totem_of_Soul_Protection_%28MCD%29.png\/revision\/latest?cb=20200408042730",
+        "rarity": "COMMON~RARE",
+        "properties": "%25 second cooldown"
+    },
+    {
+        "id": "Updraft_Tome",
+        "name": "Updraft Tome",
+        "img": "https:\/\/static.wikia.nocookie.net\/minecraft_gamepedia\/images\/0\/07\/Updraft_Tome_%28MCD%29.png\/revision\/latest?cb=20201209125516",
+        "rarity": "COMMON~RARE",
+        "properties": "%16 second cooldown"
+    },
+    {
+        "id": "Vexing_Chant",
+        "name": "Vexing Chant",
+        "img": "https:\/\/static.wikia.nocookie.net\/minecraft_gamepedia\/images\/8\/8d\/Vexing_Chant_%28MCD%29.png\/revision\/latest?cb=20210805012544",
+        "rarity": "COMMON~RARE",
+        "properties": "%X blocks pushed~10 second cooldown"
+    },
+    {
+        "id": "Wind_Horn",
+        "name": "Wind Horn",
+        "img": "https:\/\/static.wikia.nocookie.net\/minecraft_gamepedia\/images\/9\/94\/Wind_Horn_%28MCD%29.png\/revision\/latest?cb=20200408040506",
+        "rarity": "COMMON~RARE",
+        "properties": "%X artifact damage~10 second cooldown"
+    },
+    {
+        "id": "Wonderful_Wheat",
+        "name": "Wonderful Wheat",
+        "img": "https:\/\/static.wikia.nocookie.net\/minecraft_gamepedia\/images\/c\/c0\/Wonderful_Wheat_%28MCD%29.png\/revision\/latest?cb=20210111171738",
+        "rarity": "COMMON~RARE",
+        "properties": "%"
+    }
+]

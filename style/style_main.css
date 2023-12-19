@@ -8,6 +8,13 @@ html {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    background-attachment: fixed;
+}
+:hover {
+     cursor: url("../cursor/MDPointer.cur"), pointer;
+ }
+:focus {
+    cursor: url("../cursor/MDText.cur"), pointer;
 }
 body {
     font-family: Pixel;

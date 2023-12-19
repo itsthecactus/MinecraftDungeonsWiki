@@ -1,0 +1,79 @@
+@font-face {
+    font-family: Pixel;
+    src: url("../fonts/PixelFont.ttf");
+}
+html {
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 1),rgba(0, 0, 0, .7)) , url("../img/buttons/background.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+body {
+    font-family: Pixel;
+}
+table {
+    margin-top: 2.5%;
+    margin-left: 10%;
+}
+td {
+    padding-right: 40px;
+}
+.input {
+    font-family: inherit;
+}
+.info {
+    color: white;
+    vertical-align: top;
+}
+.title {
+    color: white;
+    font-size: xx-large;
+    margin-bottom: -10%;
+}
+p.text {
+    margin-bottom: -15%;
+}
+.common {
+    background: -webkit-linear-gradient(#ffffff, #ababab);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: x-large;
+}
+.rare {
+    background: -webkit-linear-gradient(#37ff6e, #00ff51);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: x-large;
+}
+.unique {
+    background: -webkit-linear-gradient(#ff9900, #ff5900);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: x-large;
+}
+:hover {
+    cursor: url("../cursor/MDPointer.cur"), pointer;
+}
+:focus {
+    cursor: url("../cursor/MDText.cur"), pointer;
+}
+.button {
+    background-image: linear-gradient(rgba(0, 0, 0, .4),rgba(0, 0, 0, .4)) , url("../img/buttons/return_button.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100px;
+    width: 100px;
+    border: none;
+    top: 5%;
+    left: 2.3%;
+    position: fixed;
+}
+.zoom {
+    transition: transform .3s;
+}
+.zoom:hover {
+    transform: scale(1.1);
+}

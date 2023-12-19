@@ -32,9 +32,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST'){
     if (!$duplicate){
         $JSON_DATA[] = $user;
         $new_content = json_encode($JSON_DATA, JSON_PRETTY_PRINT);
-        $handler = fopen($JSON_PATH, 'w');
-        fwrite($handler, $new_content);
-        fclose($handler);
+        file_put_contents($JSON_PATH, $JSON_DATA);
 
         setcookie('username', $username, time() + (86400 * 30), '/');
 
