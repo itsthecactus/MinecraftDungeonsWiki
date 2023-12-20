@@ -17,23 +17,42 @@ table {
     margin-top: 2.5%;
     margin-left: 10%;
 }
-td {
-    padding-right: 40px;
+table, tr {
+    border-bottom: solid rgba(255, 255, 255, .1) 3px;
+    border-collapse: collapse;
+    height: 300px;
 }
 .input {
     font-family: inherit;
 }
 .info {
     color: white;
+    vertical-align: middle;
+    width: 20%;
+}
+.img {
+    width: 20%;
+}
+.specs{
+    color: white;
     vertical-align: top;
+    width: 20%;
+    margin-left: 15%;
 }
 .title {
     color: white;
-    font-size: xx-large;
-    margin-bottom: -10%;
+    font-size: xxx-large;
+    margin-left: 10%;
 }
-p.text {
-    margin-bottom: -15%;
+.subtitle {
+    color: white;
+    font-size: x-large;
+    margin-left: 10%;
+    margin-top: -5%;
+}
+.text {
+    margin-top: -10%;
+    margin-left: 13%;
 }
 .common {
     background: -webkit-linear-gradient(#ffffff, #ababab);
@@ -46,6 +65,7 @@ p.text {
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     font-size: x-large;
+    margin-top: -10%;
 }
 .unique {
     background: -webkit-linear-gradient(#ff9900, #ff5900);

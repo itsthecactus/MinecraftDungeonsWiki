@@ -7,8 +7,8 @@
         "power": 14,
         "speed": 1,
         "area\/ammo": 14,
-        "properties": "%Slow but powerful~Absorbs some knockback~Pulls in enemies",
-        "enchantments": "%Gravity"
+        "properties": "^Slow but powerful~Absorbs some knockback~Pulls in enemies",
+        "enchantments": "^Gravity"
     },
     {
         "id": "Ancient_Bow",
@@ -18,8 +18,8 @@
         "power": 14,
         "speed": 1,
         "area\/ammo": 14,
-        "properties": "%Slow but powerful~Absorbs some knockback~Pulls in enemies~Inflicts poison",
-        "enchantments": "%Gravity~Jungle Poison"
+        "properties": "^Slow but powerful~Absorbs some knockback~Pulls in enemies~Inflicts poison",
+        "enchantments": "^Gravity~Jungle Poison"
     },
     {
         "id": "Auto_Crossbow",
@@ -29,7 +29,7 @@
         "power": 7.3,
         "speed": 2.1,
         "area\/ammo": 4,
-        "properties": "%Spin attack move",
+        "properties": "^Spin attack move",
         "enchantments": ""
     },
     {
@@ -40,8 +40,8 @@
         "power": 7.3,
         "speed": 2.1,
         "area\/ammo": 4,
-        "properties": "%Spin attack move~Burns Mobs",
-        "enchantments": "%Fire Aspect"
+        "properties": "^Spin attack move~Burns Mobs",
+        "enchantments": "^Fire Aspect"
     },
     {
         "id": "Azure_Seeker",
@@ -51,8 +51,8 @@
         "power": 7.3,
         "speed": 2.1,
         "area\/ammo": 4,
-        "properties": "%Spin attack move~Stuns Mobs",
-        "enchantments": "%Stunning"
+        "properties": "^Spin attack move~Stuns Mobs",
+        "enchantments": "^Stunning"
     },
     {
         "id": "Baby_Crossbows",
@@ -62,8 +62,8 @@
         "power": 5.65,
         "speed": 4.64,
         "area\/ammo": 1.66,
-        "properties": "%Extra damage onunsuspecting enemies",
-        "enchantments": "%Ambush"
+        "properties": "^Extra damage onunsuspecting enemies",
+        "enchantments": "^Ambush"
     },
     {
         "id": "Backstabber",
@@ -73,8 +73,8 @@
         "power": 5.65,
         "speed": 4.64,
         "area\/ammo": 1.66,
-        "properties": "%Extra damage on unsuspecting enemies~Sometimes Strikes Twice",
-        "enchantments": "%Ambush~Echo"
+        "properties": "^Extra damage on unsuspecting enemies~Sometimes Strikes Twice",
+        "enchantments": "^Ambush~Echo"
     },
     {
         "id": "Battlestaff",
@@ -84,7 +84,7 @@
         "power": 7.5,
         "speed": 3.1,
         "area\/ammo": 3.9,
-        "properties": "%Stylish combo",
+        "properties": "^Stylish combo",
         "enchantments": ""
     },
     {
@@ -95,8 +95,8 @@
         "power": 7.5,
         "speed": 2.8,
         "area\/ammo": 3.9,
-        "properties": "%Stylish combo~Defeated mobs explode",
-        "enchantments": "%Exploding"
+        "properties": "^Stylish combo~Defeated mobs explode",
+        "enchantments": "^Exploding"
     },
     {
         "id": "Bee_Stinger",
@@ -106,8 +106,8 @@
         "power": 7.5,
         "speed": 2.8,
         "area\/ammo": 4.9,
-        "properties": "%Stylish combo~Increased damage to wounded mobs",
-        "enchantments": "%Committed"
+        "properties": "^Stylish combo~Increased damage to wounded mobs",
+        "enchantments": "^Committed"
     },
     {
         "id": "Bonebow",
@@ -117,7 +117,7 @@
         "power": 14,
         "speed": 1,
         "area\/ammo": 9.2,
-        "properties": "%Great Pushback",
+        "properties": "^Great Pushback",
         "enchantments": ""
     },
     {
@@ -128,8 +128,8 @@
         "power": 14,
         "speed": 1,
         "area\/ammo": 9.2,
-        "properties": "%Great pushback~Extra damage to Illagers",
-        "enchantments": "%Illager's Bane"
+        "properties": "^Great pushback~Extra damage to Illagers",
+        "enchantments": "^Illager's Bane"
     },
     {
         "id": "Bone_Cudgel",
@@ -139,7 +139,7 @@
         "power": 3.9,
         "speed": 8.5,
         "area\/ammo": 1.5,
-        "properties": "%Continuous attacks",
+        "properties": "^Continuous attacks",
         "enchantments": ""
     },
     {
@@ -150,7 +150,7 @@
         "power": 3.9,
         "speed": 8.5,
         "area\/ammo": 1.5,
-        "properties": "%Long continuous",
+        "properties": "^Long continuous",
         "enchantments": ""
     },
     {
@@ -161,7 +161,7 @@
         "power": 11.4,
         "speed": 1,
         "area\/ammo": 6.5,
-        "properties": "%Powerful pushback",
+        "properties": "^Powerful pushback",
         "enchantments": ""
     },
     {
@@ -172,8 +172,8 @@
         "power": 11.4,
         "speed": 1,
         "area\/ammo": 6.5,
-        "properties": "%Powerful pushback~Extra damage",
-        "enchantments": "%Sharpness"
+        "properties": "^Powerful pushback~Extra damage",
+        "enchantments": "^Sharpness"
     },
     {
         "id": "Broken_Sawblade",
@@ -183,8 +183,8 @@
         "power": 11.4,
         "speed": 1,
         "area\/ammo": 6.5,
-        "properties": "%Powerful pushback~Rolling makes next attack stronger",
-        "enchantments": "%Dynamo"
+        "properties": "^Powerful pushback~Rolling makes next attack stronger",
+        "enchantments": "^Dynamo"
     },
     {
         "id": "Bubble_Bow",
@@ -194,8 +194,8 @@
         "power": 11.4,
         "speed": 1,
         "area\/ammo": 6.5,
-        "properties": "%Powerful pushback~Leeches health from mobs",
-        "enchantments": "%Leeching"
+        "properties": "^Powerful pushback~Leeches health from mobs",
+        "enchantments": "^Leeching"
     },
     {
         "id": "Bubble_Burster",
@@ -205,7 +205,7 @@
         "power": 1.86,
         "speed": 4.54,
         "area\/ammo": 2.39,
-        "properties": "%Rapid slashes",
+        "properties": "^Rapid slashes",
         "enchantments": ""
     },
     {
@@ -216,7 +216,7 @@
         "power": 1.86,
         "speed": 4.54,
         "area\/ammo": 2.39,
-        "properties": "%Rapid slashes~Deals absorbed damage during attack combo",
+        "properties": "^Rapid slashes~Deals absorbed damage during attack combo",
         "enchantments": ""
     },
     {
@@ -227,7 +227,7 @@
         "power": 4.9,
         "speed": 3.6,
         "area\/ammo": 4.9,
-        "properties": "%Reliable combo",
+        "properties": "^Reliable combo",
         "enchantments": ""
     },
     {
@@ -238,8 +238,8 @@
         "power": 4.9,
         "speed": 3.6,
         "area\/ammo": 4.9,
-        "properties": "%Reliable combo~Increased attack speed",
-        "enchantments": "%Rampaging"
+        "properties": "^Reliable combo~Increased attack speed",
+        "enchantments": "^Rampaging"
     },
     {
         "id": "Cackling_Broom",
@@ -249,8 +249,8 @@
         "power": 4.9,
         "speed": 3.6,
         "area\/ammo": 4.9,
-        "properties": "%Reliable combo~Weakens enemy attacks",
-        "enchantments": "%Weakening"
+        "properties": "^Reliable combo~Weakens enemy attacks",
+        "enchantments": "^Weakening"
     },
     {
         "id": "Call_of_the_Void",
@@ -260,7 +260,7 @@
         "power": 3.5,
         "speed": 7.3,
         "area\/ammo": 1.7,
-        "properties": "%Dual wield",
+        "properties": "^Dual wield",
         "enchantments": ""
     },
     {
@@ -271,8 +271,8 @@
         "power": 3.5,
         "speed": 7.3,
         "area\/ammo": 1,
-        "properties": "%Dual wield~Slows mobs",
-        "enchantments": "%Freezing"
+        "properties": "^Dual wield~Slows mobs",
+        "enchantments": "^Freezing"
     },
     {
         "id": "Claymore",
@@ -282,8 +282,8 @@
         "power": 3.5,
         "speed": 7.3,
         "area\/ammo": 1,
-        "properties": "%Dual wield~Souls critical boost~+2 Soul gathering",
-        "enchantments": "%Enigma Resonator"
+        "properties": "^Dual wield~Souls critical boost~+2 Soul gathering",
+        "enchantments": "^Enigma Resonator"
     },
     {
         "id": "Cog_Crossbow",
@@ -293,8 +293,8 @@
         "power": 3.5,
         "speed": 7.3,
         "area\/ammo": 1,
-        "properties": "%Dual wield~Last attack deals area damage",
-        "enchantments": "%Swirling"
+        "properties": "^Dual wield~Last attack deals area damage",
+        "enchantments": "^Swirling"
     },
     {
         "id": "Coral_Blade",
@@ -304,7 +304,7 @@
         "power": 8.2,
         "speed": 1.6,
         "area\/ammo": 6.6,
-        "properties": "%Longer melee reach",
+        "properties": "^Longer melee reach",
         "enchantments": ""
     },
     {
@@ -315,8 +315,8 @@
         "power": 8.2,
         "speed": 1.6,
         "area\/ammo": 6.6,
-        "properties": "%Longer melee reach~Extra damage to undead",
-        "enchantments": "%Smiting"
+        "properties": "^Longer melee reach~Extra damage to undead",
+        "enchantments": "^Smiting"
     },
     {
         "id": "Crossbow",
@@ -326,8 +326,8 @@
         "power": 8.2,
         "speed": 1.6,
         "area\/ammo": 6.6,
-        "properties": "%Longer melee reach~Spawns poison clouds",
-        "enchantments": "%Poison Cloud"
+        "properties": "^Longer melee reach~Spawns poison clouds",
+        "enchantments": "^Poison Cloud"
     },
     {
         "id": "Cursed_Axe",
@@ -337,7 +337,7 @@
         "power": 9.9,
         "speed": 1,
         "area\/ammo": 8.4,
-        "properties": "%Great splash",
+        "properties": "^Great splash",
         "enchantments": ""
     },
     {
@@ -348,8 +348,8 @@
         "power": 9.9,
         "speed": 3,
         "area\/ammo": 9.1,
-        "properties": "%Great splash~Pulls in enemies",
-        "enchantments": "%Gravity"
+        "properties": "^Great splash~Pulls in enemies",
+        "enchantments": "^Gravity"
     },
     {
         "id": "Daggers",
@@ -359,8 +359,8 @@
         "power": 9.9,
         "speed": 1,
         "area\/ammo": 8.4,
-        "properties": "%Great splash~Fires lightning bolts",
-        "enchantments": "%Thundering"
+        "properties": "^Great splash~Fires lightning bolts",
+        "enchantments": "^Thundering"
     },
     {
         "id": "Dancer%27s_Sword",
@@ -370,7 +370,7 @@
         "power": 6.9,
         "speed": 2.2,
         "area\/ammo": 2.9,
-        "properties": "%",
+        "properties": "",
         "enchantments": ""
     },
     {
@@ -381,8 +381,8 @@
         "power": 6.9,
         "speed": 2.2,
         "area\/ammo": 9.2,
-        "properties": "%Binds and chains enemies",
-        "enchantments": "%Chains"
+        "properties": "^Binds and chains enemies",
+        "enchantments": "^Chains"
     },
     {
         "id": "Diamond_Pickaxe",
@@ -392,8 +392,8 @@
         "power": 6.9,
         "speed": 2.2,
         "area\/ammo": 2.9,
-        "properties": "%Heals allies in the area",
-        "enchantments": "%Radiance"
+        "properties": "^Heals allies in the area",
+        "enchantments": "^Radiance"
     },
     {
         "id": "Diamond_Sword",
@@ -403,7 +403,7 @@
         "power": 14,
         "speed": 1,
         "area\/ammo": 9.2,
-        "properties": "%Very powerful combo",
+        "properties": "^Very powerful combo",
         "enchantments": ""
     },
     {
@@ -414,8 +414,8 @@
         "power": 14,
         "speed": 1,
         "area\/ammo": 9.2,
-        "properties": "%Very powerful combo~Excess damage hits nearby mobs",
-        "enchantments": "%Shared Pain"
+        "properties": "^Very powerful combo~Excess damage hits nearby mobs",
+        "enchantments": "^Shared Pain"
     },
     {
         "id": "Double_Axe",
@@ -425,7 +425,7 @@
         "power": 13,
         "speed": 1.6,
         "area\/ammo": 2.5,
-        "properties": "%",
+        "properties": "",
         "enchantments": ""
     },
     {
@@ -436,8 +436,8 @@
         "power": 13,
         "speed": 1.6,
         "area\/ammo": 2.5,
-        "properties": "%Mobs Drop More Emeralds",
-        "enchantments": "%Prospector"
+        "properties": "^Mobs Drop More Emeralds",
+        "enchantments": "^Prospector"
     },
     {
         "id": "Echo_of_the_Valley",
@@ -447,7 +447,7 @@
         "power": 3.5,
         "speed": 5.3,
         "area\/ammo": 1.7,
-        "properties": "%Dual wield",
+        "properties": "^Dual wield",
         "enchantments": ""
     },
     {
@@ -458,8 +458,8 @@
         "power": 3.5,
         "speed": 5.3,
         "area\/ammo": 1.7,
-        "properties": "%Dual wield~Spawns poison clouds",
-        "enchantments": "%Poison Cloud"
+        "properties": "^Dual wield~Spawns poison clouds",
+        "enchantments": "^Poison Cloud"
     },
     {
         "id": "Encrusted_Anchor",
@@ -469,8 +469,8 @@
         "power": 3.5,
         "speed": 5.3,
         "area\/ammo": 1.7,
-        "properties": "%Dual wield~Mobs drop more emeralds",
-        "enchantments": "%Prospector"
+        "properties": "^Dual wield~Mobs drop more emeralds",
+        "enchantments": "^Prospector"
     },
     {
         "id": "Eternal_Knife",
@@ -480,7 +480,7 @@
         "power": 14,
         "speed": 1,
         "area\/ammo": 3.4,
-        "properties": "%Thrust attack~+1 Soul gathering",
+        "properties": "^Thrust attack~+1 Soul gathering",
         "enchantments": ""
     },
     {
@@ -491,8 +491,8 @@
         "power": 14,
         "speed": 1,
         "area\/ammo": 3.4,
-        "properties": "%Thrust attack~Chance to Gain Souls~+2 Soul gathering",
-        "enchantments": "%Soul Siphon"
+        "properties": "^Thrust attack~Chance to Gain Souls~+2 Soul gathering",
+        "enchantments": "^Soul Siphon"
     },
     {
         "id": "Fangs_of_Frost",
@@ -502,8 +502,8 @@
         "power": 14,
         "speed": 1,
         "area\/ammo": 3.4,
-        "properties": "%Thrust attack~Increased damage to wounded mobs~+1 Soul gathering",
-        "enchantments": "%Committed"
+        "properties": "^Thrust attack~Increased damage to wounded mobs~+1 Soul gathering",
+        "enchantments": "^Committed"
     },
     {
         "id": "Feral_Soul_Crossbow",
@@ -513,7 +513,7 @@
         "power": 5.8,
         "speed": 3.3,
         "area\/ammo": 3.1,
-        "properties": "%",
+        "properties": "",
         "enchantments": ""
     },
     {
@@ -524,8 +524,8 @@
         "power": 5.8,
         "speed": 3.3,
         "area\/ammo": 3.1,
-        "properties": "%Extra damage",
-        "enchantments": "%Sharpness"
+        "properties": "^Extra damage",
+        "enchantments": "^Sharpness"
     },
     {
         "id": "Firebolt_Thrower",
@@ -535,8 +535,8 @@
         "power": 5.8,
         "speed": 3.3,
         "area\/ammo": 3.1,
-        "properties": "%Gives critical hit chance",
-        "enchantments": "%Critical Hit"
+        "properties": "^Gives critical hit chance",
+        "enchantments": "^Critical Hit"
     },
     {
         "id": "Firebrand",
@@ -546,8 +546,8 @@
         "power": 5.4,
         "speed": 4.3,
         "area\/ammo": 2.4,
-        "properties": "%Speed burst after mob defeated",
-        "enchantments": "%Rushdown"
+        "properties": "^Speed burst after mob defeated",
+        "enchantments": "^Rushdown"
     },
     {
         "id": "Flail",
@@ -557,8 +557,8 @@
         "power": 5.4,
         "speed": 4.3,
         "area\/ammo": 2.4,
-        "properties": "%Speed burst after mob defeated~Slows mobs",
-        "enchantments": "%Rushdown~Freezing"
+        "properties": "^Speed burst after mob defeated~Slows mobs",
+        "enchantments": "^Rushdown~Freezing"
     },
     {
         "id": "Fortune_Spear",
@@ -568,8 +568,8 @@
         "power": 5.4,
         "speed": 4.3,
         "area\/ammo": 1.6,
-        "properties": "%Speed burst after mob defeated~Increased damage to wounded mobs",
-        "enchantments": "%Rushdown~Committed"
+        "properties": "^Speed burst after mob defeated~Increased damage to wounded mobs",
+        "enchantments": "^Rushdown~Committed"
     },
     {
         "id": "Freezing_Foil",
@@ -579,8 +579,8 @@
         "power": 5.71,
         "speed": 3.5,
         "area\/ammo": 2.2,
-        "properties": "%Applies rising damage multiplier",
-        "enchantments": "%Void Strike"
+        "properties": "^Applies rising damage multiplier",
+        "enchantments": "^Void Strike"
     },
     {
         "id": "Frost_Scythe",
@@ -590,8 +590,8 @@
         "power": 5.71,
         "speed": 3.5,
         "area\/ammo": 2.2,
-        "properties": "%Applies rising damage multiplier~Leeches health from mobs",
-        "enchantments": "%Void Strike~Leeching"
+        "properties": "^Applies rising damage multiplier~Leeches health from mobs",
+        "enchantments": "^Void Strike~Leeching"
     },
     {
         "id": "Frost_Slayer",
@@ -601,7 +601,7 @@
         "power": 9.9,
         "speed": 1.3,
         "area\/ammo": 1,
-        "properties": "%Longer melee reach",
+        "properties": "^Longer melee reach",
         "enchantments": ""
     },
     {
@@ -612,8 +612,8 @@
         "power": 9.9,
         "speed": 1.3,
         "area\/ammo": 1,
-        "properties": "%Longer melee reach~Inflicts poison",
-        "enchantments": "%Jungle Poison"
+        "properties": "^Longer melee reach~Inflicts poison",
+        "enchantments": "^Jungle Poison"
     },
     {
         "id": "Glaive",
@@ -623,7 +623,7 @@
         "power": 2.6,
         "speed": 6.6,
         "area\/ammo": 1.8,
-        "properties": "%Relentless combo",
+        "properties": "^Relentless combo",
         "enchantments": ""
     },
     {
@@ -634,7 +634,7 @@
         "power": 2.5,
         "speed": 14,
         "area\/ammo": 1.5,
-        "properties": "%Turbo punches",
+        "properties": "^Turbo punches",
         "enchantments": ""
     },
     {
@@ -645,8 +645,8 @@
         "power": 2.6,
         "speed": 6.6,
         "area\/ammo": 1.8,
-        "properties": "%Relentless combo~Increased attack speed",
-        "enchantments": "%Rampaging"
+        "properties": "^Relentless combo~Increased attack speed",
+        "enchantments": "^Rampaging"
     },
     {
         "id": "Great_Hammer",
@@ -656,8 +656,8 @@
         "power": 2.6,
         "speed": 6.6,
         "area\/ammo": 1.8,
-        "properties": "%Relentless combo~Souls critical boost~+2 Soul gathering",
-        "enchantments": "%Enigma Resonator"
+        "properties": "^Relentless combo~Souls critical boost~+2 Soul gathering",
+        "enchantments": "^Enigma Resonator"
     },
     {
         "id": "Growing_Staff",
@@ -667,7 +667,7 @@
         "power": 7.5,
         "speed": 1.8,
         "area\/ammo": 9,
-        "properties": "%+1 Soul gathering",
+        "properties": "^+1 Soul gathering",
         "enchantments": ""
     },
     {
@@ -678,8 +678,8 @@
         "power": 7.5,
         "speed": 1.8,
         "area\/ammo": 9,
-        "properties": "%Slows mobs~+1 Soul gathering",
-        "enchantments": "%Freezing"
+        "properties": "^Slows mobs~+1 Soul gathering",
+        "enchantments": "^Freezing"
     },
     {
         "id": "Hammer_of_Gravity",
@@ -689,8 +689,8 @@
         "power": 7.5,
         "speed": 1.8,
         "area\/ammo": 9,
-        "properties": "%Binds and chains enemies~+1 Soul Gathering",
-        "enchantments": "%Chains"
+        "properties": "^Binds and chains enemies~+1 Soul Gathering",
+        "enchantments": "^Chains"
     },
     {
         "id": "Harpoon_Crossbow",
@@ -700,7 +700,7 @@
         "power": 9.5,
         "speed": 2,
         "area\/ammo": 7,
-        "properties": "%",
+        "properties": "",
         "enchantments": ""
     },
     {
@@ -711,8 +711,8 @@
         "power": 9.5,
         "speed": 2,
         "area\/ammo": 7,
-        "properties": "%Extra damage to undead",
-        "enchantments": "%Smiting"
+        "properties": "^Extra damage to undead",
+        "enchantments": "^Smiting"
     },
     {
         "id": "Haunted_Bow",
@@ -722,8 +722,8 @@
         "power": 9.5,
         "speed": 2,
         "area\/ammo": 7,
-        "properties": "%Gives critical hit chance",
-        "enchantments": "%Critical Hit"
+        "properties": "^Gives critical hit chance",
+        "enchantments": "^Critical Hit"
     },
     {
         "id": "Hawkbrand",
@@ -733,7 +733,7 @@
         "power": 9.9,
         "speed": 2.1,
         "area\/ammo": 14,
-        "properties": "%Spin attack",
+        "properties": "^Spin attack",
         "enchantments": ""
     },
     {
@@ -744,8 +744,8 @@
         "power": 10,
         "speed": 2.1,
         "area\/ammo": 14,
-        "properties": "%Spin attack",
-        "enchantments": "%Exploding"
+        "properties": "^Spin attack",
+        "enchantments": "^Exploding"
     },
     {
         "id": "Heavy_Crossbow",
@@ -755,8 +755,8 @@
         "power": 9.9,
         "speed": 2.1,
         "area\/ammo": 14,
-        "properties": "%Spin attack",
-        "enchantments": "%Shockwave"
+        "properties": "^Spin attack",
+        "enchantments": "^Shockwave"
     },
     {
         "id": "Highland_Axe",
@@ -766,7 +766,7 @@
         "power": 6.6,
         "speed": 2.2,
         "area\/ammo": 9.2,
-        "properties": "%Long melee reach",
+        "properties": "^Long melee reach",
         "enchantments": ""
     },
     {
@@ -777,8 +777,8 @@
         "power": 6.6,
         "speed": 2.2,
         "area\/ammo": 9.2,
-        "properties": "%Long melee reach~Drop more consumables",
-        "enchantments": "%Looting"
+        "properties": "^Long melee reach~Drop more consumables",
+        "enchantments": "^Looting"
     },
     {
         "id": "Hunting_Bow",
@@ -788,8 +788,8 @@
         "power": 6.6,
         "speed": 2.2,
         "area\/ammo": 9.2,
-        "properties": "%Long melee reach~Sometimes strikes twice",
-        "enchantments": "%Echo"
+        "properties": "^Long melee reach~Sometimes strikes twice",
+        "enchantments": "^Echo"
     },
     {
         "id": "Imploding_Crossbow",
@@ -799,7 +799,7 @@
         "power": 1.1,
         "speed": 11.7,
         "area\/ammo": 6.1,
-        "properties": "%Fast thrusts",
+        "properties": "^Fast thrusts",
         "enchantments": ""
     },
     {
@@ -810,8 +810,8 @@
         "power": 1,
         "speed": 11.7,
         "area\/ammo": 6.1,
-        "properties": "%Fast Thrusts~Chance to Summon a Bee",
-        "enchantments": "%Busy Bee"
+        "properties": "^Fast Thrusts~Chance to Summon a Bee",
+        "enchantments": "^Busy Bee"
     },
     {
         "id": "Katana",
@@ -821,8 +821,8 @@
         "power": 1.2,
         "speed": 11.4,
         "area\/ammo": 6.1,
-        "properties": "%Fast thrusts~Slows mobs",
-        "enchantments": "%Freezing"
+        "properties": "^Fast thrusts~Slows mobs",
+        "enchantments": "^Freezing"
     },
     {
         "id": "Lightning_Harp_Crossbow",
@@ -832,8 +832,8 @@
         "power": 5.8,
         "speed": 3.3,
         "area\/ammo": 3.1,
-        "properties": "%Gives critical hit chance~Special event item",
-        "enchantments": "%Critical Hit"
+        "properties": "^Gives critical hit chance~Special event item",
+        "enchantments": "^Critical Hit"
     },
     {
         "id": "Longbow",
@@ -843,8 +843,8 @@
         "power": 11.4,
         "speed": 1,
         "area\/ammo": 6.5,
-        "properties": "%Powerful pushback~Extra damage~Special event item",
-        "enchantments": "%sharpness"
+        "properties": "^Powerful pushback~Extra damage~Special event item",
+        "enchantments": "^sharpness"
     },
     {
         "id": "Love_Spell_Bow",
@@ -854,8 +854,8 @@
         "power": 4,
         "speed": 3,
         "area\/ammo": 5,
-        "properties": "%Reliable combo~Increased attack speed~Special event item",
-        "enchantments": "%Rampaging"
+        "properties": "^Reliable combo~Increased attack speed~Special event item",
+        "enchantments": "^Rampaging"
     },
     {
         "id": "Mace",
@@ -865,8 +865,8 @@
         "power": 7.5,
         "speed": 1.8,
         "area\/ammo": 9,
-        "properties": "%Slows mobs~+1 Soul Gathering~Special event item",
-        "enchantments": "%Freezing"
+        "properties": "^Slows mobs~+1 Soul Gathering~Special event item",
+        "enchantments": "^Freezing"
     },
     {
         "id": "Master%27s_Bow",
@@ -876,8 +876,8 @@
         "power": 8.2,
         "speed": 1.6,
         "area\/ammo": 6.6,
-        "properties": "%Longer melee reach~Extra damage to undead~Special event item",
-        "enchantments": "%Smiting"
+        "properties": "^Longer melee reach~Extra damage to undead~Special event item",
+        "enchantments": "^Smiting"
     },
     {
         "id": "Master%27s_Katana",
@@ -887,7 +887,7 @@
         "power": 4.2,
         "speed": 3.7,
         "area\/ammo": 5.3,
-        "properties": "%",
+        "properties": "",
         "enchantments": ""
     },
     {
@@ -898,8 +898,8 @@
         "power": 4.2,
         "speed": 3.7,
         "area\/ammo": 6.6,
-        "properties": "%Arrows grow size",
-        "enchantments": "%Growing"
+        "properties": "^Arrows grow size",
+        "enchantments": "^Growing"
     },
     {
         "id": "Mechanical_Shortbow",
@@ -909,8 +909,8 @@
         "power": 4.2,
         "speed": 3.7,
         "area\/ammo": 6.6,
-        "properties": "%Shoots two",
-        "enchantments": "%Bonus Shot"
+        "properties": "^Shoots two",
+        "enchantments": "^Bonus Shot"
     },
     {
         "id": "Mechanized_Sawblade",
@@ -920,7 +920,7 @@
         "power": 3.02,
         "speed": 3.41,
         "area\/ammo": 6.57,
-        "properties": "%Bubble damage",
+        "properties": "^Bubble damage",
         "enchantments": ""
     },
     {
@@ -931,8 +931,8 @@
         "power": 3.02,
         "speed": 3.41,
         "area\/ammo": 6.57,
-        "properties": "%Bubble damage~Hits multiple targets when charged",
-        "enchantments": "%Reliable Ricochet"
+        "properties": "^Bubble damage~Hits multiple targets when charged",
+        "enchantments": "^Reliable Ricochet"
     },
     {
         "id": "Nameless_Blade",
@@ -942,7 +942,7 @@
         "power": 4.2,
         "speed": 3.7,
         "area\/ammo": 4.1,
-        "properties": "%Pets attack",
+        "properties": "^Pets attack",
         "enchantments": ""
     },
     {
@@ -953,8 +953,8 @@
         "power": 4.3,
         "speed": 3.7,
         "area\/ammo": 4.1,
-        "properties": "%Pets attack~Boosts next attack on roll",
-        "enchantments": "%Dynamo"
+        "properties": "^Pets attack~Boosts next attack on roll",
+        "enchantments": "^Dynamo"
     },
     {
         "id": "Nightmare%27s_Bite",
@@ -964,8 +964,8 @@
         "power": 4.2,
         "speed": 3.7,
         "area\/ammo": 4.1,
-        "properties": "%Pets attack~Chance to regain arrows",
-        "enchantments": "%Infinity"
+        "properties": "^Pets attack~Chance to regain arrows",
+        "enchantments": "^Infinity"
     },
     {
         "id": "Nocturnal_Bow",
@@ -975,8 +975,8 @@
         "power": 4.2,
         "speed": 3.7,
         "area\/ammo": 4.1,
-        "properties": "%Pets attack~Extra damage dealt",
-        "enchantments": "%Power"
+        "properties": "^Pets attack~Extra damage dealt",
+        "enchantments": "^Power"
     },
     {
         "id": "Obsidian_Claymore",
@@ -986,8 +986,8 @@
         "power": 5.3,
         "speed": 3.7,
         "area\/ammo": 4.1,
-        "properties": "%Strong charged attacks",
-        "enchantments": "%Supercharge"
+        "properties": "^Strong charged attacks",
+        "enchantments": "^Supercharge"
     },
     {
         "id": "Phantom_Bow",
@@ -997,8 +997,8 @@
         "power": 5.3,
         "speed": 3.7,
         "area\/ammo": 4.1,
-        "properties": "%Strong charged~Super charged arrows",
-        "enchantments": "%Supercharge~Supercharge"
+        "properties": "^Strong charged~Super charged arrows",
+        "enchantments": "^Supercharge~Supercharge"
     },
     {
         "id": "Pickaxe",
@@ -1008,8 +1008,8 @@
         "power": 5.3,
         "speed": 3.7,
         "area\/ammo": 4.1,
-        "properties": "%Strong charged~Chance for arrows to explode",
-        "enchantments": "%Supercharge~Fuse Shot"
+        "properties": "^Strong charged~Chance for arrows to explode",
+        "enchantments": "^Supercharge~Fuse Shot"
     },
     {
         "id": "Power_Bow",
@@ -1019,8 +1019,8 @@
         "power": 7.1,
         "speed": 3.7,
         "area\/ammo": 1.6,
-        "properties": "%Strong charged attacks",
-        "enchantments": "%Supercharge"
+        "properties": "^Strong charged attacks",
+        "enchantments": "^Supercharge"
     },
     {
         "id": "Pride_of_the_Piglins",
@@ -1030,8 +1030,8 @@
         "power": 7.1,
         "speed": 3.7,
         "area\/ammo": 1.6,
-        "properties": "%Strong charged~Greater damage",
-        "enchantments": "%Supercharge~Power"
+        "properties": "^Strong charged~Greater damage",
+        "enchantments": "^Supercharge~Power"
     },
     {
         "id": "Purple_Storm",
@@ -1041,8 +1041,8 @@
         "power": 7.1,
         "speed": 3.7,
         "area\/ammo": 1.6,
-        "properties": "%Strong charged~Heals allies in the area",
-        "enchantments": "%Supercharge~Radiance Shot"
+        "properties": "^Strong charged~Heals allies in the area",
+        "enchantments": "^Supercharge~Radiance Shot"
     },
     {
         "id": "Rapid_Crossbow",
@@ -1052,7 +1052,7 @@
         "power": 2.7,
         "speed": 8.4,
         "area\/ammo": 14,
-        "properties": "%",
+        "properties": "",
         "enchantments": ""
     },
     {
@@ -1063,8 +1063,8 @@
         "power": 2.7,
         "speed": 8.4,
         "area\/ammo": 14,
-        "properties": "%Chance to enrage mobs",
-        "enchantments": "%Wild Rage"
+        "properties": "^Chance to enrage mobs",
+        "enchantments": "^Wild Rage"
     },
     {
         "id": "Red_Snake",
@@ -1074,8 +1074,8 @@
         "power": 2.7,
         "speed": 8.4,
         "area\/ammo": 14,
-        "properties": "%Accelerated fire rate",
-        "enchantments": "%Accelerate"
+        "properties": "^Accelerated fire rate",
+        "enchantments": "^Accelerate"
     },
     {
         "id": "Resolute_Tempest_Knife",
@@ -1085,8 +1085,8 @@
         "power": 2.7,
         "speed": 8.4,
         "area\/ammo": 14,
-        "properties": "%Increased fire rate",
-        "enchantments": "%Rapid Fire"
+        "properties": "^Increased fire rate",
+        "enchantments": "^Rapid Fire"
     },
     {
         "id": "Sabrewing",
@@ -1096,7 +1096,7 @@
         "power": 4.2,
         "speed": 3.7,
         "area\/ammo": 6.6,
-        "properties": "%Freezes on impact",
+        "properties": "^Freezes on impact",
         "enchantments": ""
     },
     {
@@ -1107,7 +1107,7 @@
         "power": 4.2,
         "speed": 3.7,
         "area\/ammo": 6.6,
-        "properties": "%Freezes on impact~Fires 3 arrows when charged",
+        "properties": "^Freezes on impact~Fires 3 arrows when charged",
         "enchantments": ""
     },
     {
@@ -1118,8 +1118,8 @@
         "power": 1.3,
         "speed": 3.7,
         "area\/ammo": 5.3,
-        "properties": "%Hits multiple targets",
-        "enchantments": "%Ricochet"
+        "properties": "^Hits multiple targets",
+        "enchantments": "^Ricochet"
     },
     {
         "id": "Sheer_Daggers",
@@ -1129,8 +1129,8 @@
         "power": 1.3,
         "speed": 3.7,
         "area\/ammo": 5.3,
-        "properties": "%Hits multiple~Spawns poison clouds",
-        "enchantments": "%Ricochet~Poison Cloud"
+        "properties": "^Hits multiple~Spawns poison clouds",
+        "enchantments": "^Ricochet~Poison Cloud"
     },
     {
         "id": "Shivering_Bow",
@@ -1140,8 +1140,8 @@
         "power": 1.3,
         "speed": 3.7,
         "area\/ammo": 5.3,
-        "properties": "%Hits multiple targets~Chance to enrage mobs",
-        "enchantments": "%Ricochet~Wild Rage"
+        "properties": "^Hits multiple targets~Chance to enrage mobs",
+        "enchantments": "^Ricochet~Wild Rage"
     },
     {
         "id": "Shortbow",
@@ -1151,7 +1151,7 @@
         "power": 4.2,
         "speed": 3.7,
         "area\/ammo": 1,
-        "properties": "%Poison trail",
+        "properties": "^Poison trail",
         "enchantments": ""
     },
     {
@@ -1162,8 +1162,8 @@
         "power": 4.2,
         "speed": 3.7,
         "area\/ammo": 1,
-        "properties": "%Poison trail~Charged arrows",
-        "enchantments": "%Roll Charge"
+        "properties": "^Poison trail~Charged arrows",
+        "enchantments": "^Roll Charge"
     },
     {
         "id": "Sinister_Sword",
@@ -1173,8 +1173,8 @@
         "power": 5.1,
         "speed": 2.63,
         "area\/ammo": 4.1,
-        "properties": "%Applies rising",
-        "enchantments": "%Void Strike"
+        "properties": "^Applies rising",
+        "enchantments": "^Void Strike"
     },
     {
         "id": "Skull_Scythe",
@@ -1184,8 +1184,8 @@
         "power": 5.1,
         "speed": 2.63,
         "area\/ammo": 4.1,
-        "properties": "%Applies rising~Chance for arrows to explode",
-        "enchantments": "%Void Strike~Fuse Shot"
+        "properties": "^Applies rising~Chance for arrows to explode",
+        "enchantments": "^Void Strike~Fuse Shot"
     },
     {
         "id": "Slayer_Crossbow",
@@ -1195,7 +1195,7 @@
         "power": 4.2,
         "speed": 3.7,
         "area\/ammo": 4.7,
-        "properties": "%Charged arrows pull in enemies",
+        "properties": "^Charged arrows pull in enemies",
         "enchantments": ""
     },
     {
@@ -1206,8 +1206,8 @@
         "power": 4.2,
         "speed": 3.7,
         "area\/ammo": 4.7,
-        "properties": "%Charged arrows pull in enemies~Rolling charges next arrow",
-        "enchantments": "%Roll Charge"
+        "properties": "^Charged arrows pull in enemies~Rolling charges next arrow",
+        "enchantments": "^Roll Charge"
     },
     {
         "id": "Soul_Bow",
@@ -1217,8 +1217,8 @@
         "power": 4.2,
         "speed": 3.7,
         "area\/ammo": 4.7,
-        "properties": "%Charged arrows pull in enemies~Chance to ricochet",
-        "enchantments": "%Ricochet"
+        "properties": "^Charged arrows pull in enemies~Chance to ricochet",
+        "enchantments": "^Ricochet"
     },
     {
         "id": "Soul_Crossbow",
@@ -1228,7 +1228,7 @@
         "power": 4.2,
         "speed": 3.7,
         "area\/ammo": 5.3,
-        "properties": "%+1 Soul Gathering",
+        "properties": "^+1 Soul Gathering",
         "enchantments": ""
     },
     {
@@ -1239,8 +1239,8 @@
         "power": 4.2,
         "speed": 3.7,
         "area\/ammo": 5.3,
-        "properties": "%Chance for multishot~+1 Soul Gathering",
-        "enchantments": "%Multishot"
+        "properties": "^Chance for multishot~+1 Soul Gathering",
+        "enchantments": "^Multishot"
     },
     {
         "id": "Soul_Hunter_Crossbow",
@@ -1250,8 +1250,8 @@
         "power": 4.2,
         "speed": 3.7,
         "area\/ammo": 5.3,
-        "properties": "%Steals speed~+1 Soul Gathering",
-        "enchantments": "%Tempo Theft"
+        "properties": "^Steals speed~+1 Soul Gathering",
+        "enchantments": "^Tempo Theft"
     },
     {
         "id": "Soul_Knife",
@@ -1261,8 +1261,8 @@
         "power": 4.2,
         "speed": 3.7,
         "area\/ammo": 6.6,
-        "properties": "%Shoots two~Special event item",
-        "enchantments": "%Bonus Shot"
+        "properties": "^Shoots two~Special event item",
+        "enchantments": "^Bonus Shot"
     },
     {
         "id": "Soul_Scythe",
@@ -1272,8 +1272,8 @@
         "power": 4.2,
         "speed": 3.7,
         "area\/ammo": 5.3,
-        "properties": "%+1 Soul Gathering",
-        "enchantments": "%Tempo Theft"
+        "properties": "^+1 Soul Gathering",
+        "enchantments": "^Tempo Theft"
     },
     {
         "id": "Sparkler",
@@ -1283,8 +1283,8 @@
         "power": 1.3,
         "speed": 3.7,
         "area\/ammo": 5.3,
-        "properties": "%Hits multiple targets~Chance to enrage mobs~Special event item",
-        "enchantments": "%Ricochet~Wild Rage"
+        "properties": "^Hits multiple targets~Chance to enrage mobs~Special event item",
+        "enchantments": "^Ricochet~Wild Rage"
     },
     {
         "id": "Spear",
@@ -1294,8 +1294,8 @@
         "power": 7.1,
         "speed": 3.7,
         "area\/ammo": 1.6,
-        "properties": "%Strong charged~Greater damage~Special event item",
-        "enchantments": "%Supercharge~Power"
+        "properties": "^Strong charged~Greater damage~Special event item",
+        "enchantments": "^Supercharge~Power"
     },
     {
         "id": "Spellbound_Crossbows",
@@ -1305,7 +1305,7 @@
         "power": 4.2,
         "speed": 3.7,
         "area\/ammo": 6.6,
-        "properties": "%Freezes on impact~Fires 3 arrows when charged~Special event item",
+        "properties": "^Freezes on impact~Fires 3 arrows when charged~Special event item",
         "enchantments": ""
     },
     {
@@ -1316,7 +1316,7 @@
         "power": 12.3,
         "speed": 12.2,
         "area\/ammo": 2.9,
-        "properties": "%Wind-up attack",
+        "properties": "^Wind-up attack",
         "enchantments": ""
     },
     {
@@ -1327,8 +1327,8 @@
         "power": 12.3,
         "speed": 12.2,
         "area\/ammo": 2.9,
-        "properties": "%Wind-up attack~Chance to fire piercing bolts",
-        "enchantments": "%Piercing"
+        "properties": "^Wind-up attack~Chance to fire piercing bolts",
+        "enchantments": "^Piercing"
     },
     {
         "id": "Sugar_Rush",
@@ -1338,7 +1338,7 @@
         "power": 7.1,
         "speed": 2.3,
         "area\/ammo": 4.1,
-        "properties": "%Faster projectiles",
+        "properties": "^Faster projectiles",
         "enchantments": ""
     },
     {
@@ -1349,8 +1349,8 @@
         "power": 7.1,
         "speed": 2.3,
         "area\/ammo": 4.1,
-        "properties": "%Faster projectiles~Increased fire rate",
-        "enchantments": "%Rapid Fire"
+        "properties": "^Faster projectiles~Increased fire rate",
+        "enchantments": "^Rapid Fire"
     },
     {
         "id": "Swift_Striker",
@@ -1360,8 +1360,8 @@
         "power": 7.1,
         "speed": 2.3,
         "area\/ammo": 4.1,
-        "properties": "%Faster projectiles~Chance to fire piercing bolts",
-        "enchantments": "%Piercing"
+        "properties": "^Faster projectiles~Chance to fire piercing bolts",
+        "enchantments": "^Piercing"
     },
     {
         "id": "Sword",
@@ -1371,7 +1371,7 @@
         "power": 3.9,
         "speed": 3.9,
         "area\/ammo": 3.5,
-        "properties": "%Double projectiles",
+        "properties": "^Double projectiles",
         "enchantments": ""
     },
     {
@@ -1382,8 +1382,8 @@
         "power": 3.9,
         "speed": 4.9,
         "area\/ammo": 3.5,
-        "properties": "%Double projectiles~Arrows grow size",
-        "enchantments": "%Growing"
+        "properties": "^Double projectiles~Arrows grow size",
+        "enchantments": "^Growing"
     },
     {
         "id": "The_Beginning_and_The_End",
@@ -1393,8 +1393,8 @@
         "power": 3.9,
         "speed": 3.9,
         "area\/ammo": 3.5,
-        "properties": "%Double projectiles~Strong vs",
-        "enchantments": "%Unchanting"
+        "properties": "^Double projectiles~Strong vs",
+        "enchantments": "^Unchanting"
     },
     {
         "id": "The_Green_Menace",
@@ -1404,7 +1404,7 @@
         "power": 12.3,
         "speed": 1,
         "area\/ammo": 1,
-        "properties": "%Explodes on impact",
+        "properties": "^Explodes on impact",
         "enchantments": ""
     },
     {
@@ -1415,8 +1415,8 @@
         "power": 12.3,
         "speed": 1,
         "area\/ammo": 1,
-        "properties": "%Explodes on impact~Chance of chain reaction",
-        "enchantments": "%Chain Reaction"
+        "properties": "^Explodes on impact~Chance of chain reaction",
+        "enchantments": "^Chain Reaction"
     },
     {
         "id": "The_Pink_Scoundrel",
@@ -1426,8 +1426,8 @@
         "power": 12.3,
         "speed": 1,
         "area\/ammo": 1,
-        "properties": "%Explodes on impact~Pulls in enemies",
-        "enchantments": "%Gravity"
+        "properties": "^Explodes on impact~Pulls in enemies",
+        "enchantments": "^Gravity"
     },
     {
         "id": "The_Slicer",
@@ -1437,7 +1437,7 @@
         "power": 7.64,
         "speed": 3.41,
         "area\/ammo": 4.1,
-        "properties": "%Fires Harpoons",
+        "properties": "^Fires Harpoons",
         "enchantments": ""
     },
     {
@@ -1448,8 +1448,8 @@
         "power": 7.64,
         "speed": 3.41,
         "area\/ammo": 4.1,
-        "properties": "%Fires harpoons~Chance to fire",
-        "enchantments": "%Piercing"
+        "properties": "^Fires harpoons~Chance to fire",
+        "enchantments": "^Piercing"
     },
     {
         "id": "Trickbow",
@@ -1459,7 +1459,7 @@
         "power": 14,
         "speed": 1,
         "area\/ammo": 1,
-        "properties": "%Powerful shots",
+        "properties": "^Powerful shots",
         "enchantments": ""
     },
     {
@@ -1470,8 +1470,8 @@
         "power": 14,
         "speed": 1,
         "area\/ammo": 1,
-        "properties": "%Powerful shots~Additional knockback",
-        "enchantments": "%Punch"
+        "properties": "^Powerful shots~Additional knockback",
+        "enchantments": "^Punch"
     },
     {
         "id": "Twin_Bow",
@@ -1481,8 +1481,8 @@
         "power": 14,
         "speed": 1,
         "area\/ammo": 1,
-        "properties": "%Powerful shots~Hits multiple targets",
-        "enchantments": "%Ricochet"
+        "properties": "^Powerful shots~Hits multiple targets",
+        "enchantments": "^Ricochet"
     },
     {
         "id": "Twisting_Vine_Bow",
@@ -1492,7 +1492,7 @@
         "power": 1,
         "speed": 9.4,
         "area\/ammo": 11.5,
-        "properties": "%High fire rate",
+        "properties": "^High fire rate",
         "enchantments": ""
     },
     {
@@ -1503,8 +1503,8 @@
         "power": 1,
         "speed": 9.4,
         "area\/ammo": 11.5,
-        "properties": "%High fire rate~Fire rate increases upon firing",
-        "enchantments": "%Accelerate"
+        "properties": "^High fire rate~Fire rate increases upon firing",
+        "enchantments": "^Accelerate"
     },
     {
         "id": "Venom_Glaive",
@@ -1514,8 +1514,8 @@
         "power": 1,
         "speed": 9.4,
         "area\/ammo": 11.5,
-        "properties": "%High fire rate~Shoots two enemies at once",
-        "enchantments": "%Bonus Shot"
+        "properties": "^High fire rate~Shoots two enemies at once",
+        "enchantments": "^Bonus Shot"
     },
     {
         "id": "Vine_Whip",
@@ -1525,7 +1525,7 @@
         "power": 4.2,
         "speed": 8,
         "area\/ammo": 4.1,
-        "properties": "%Multiple projectiles",
+        "properties": "^Multiple projectiles",
         "enchantments": ""
     },
     {
@@ -1536,7 +1536,7 @@
         "power": 4.2,
         "speed": 14,
         "area\/ammo": 4.1,
-        "properties": "%Even more projectiles",
+        "properties": "^Even more projectiles",
         "enchantments": ""
     },
     {
@@ -1547,8 +1547,8 @@
         "power": 4.2,
         "speed": 8,
         "area\/ammo": 4.1,
-        "properties": "%Multiple projectiles~Hits multiple targets",
-        "enchantments": "%Ricochet"
+        "properties": "^Multiple projectiles~Hits multiple targets",
+        "enchantments": "^Ricochet"
     },
     {
         "id": "Void_Touched_Blades",
@@ -1558,8 +1558,8 @@
         "power": 4.76,
         "speed": 1.47,
         "area\/ammo": 4.1,
-        "properties": "%Chance of shadow form on kills",
-        "enchantments": "%Shadow Shot"
+        "properties": "^Chance of shadow form on kills",
+        "enchantments": "^Shadow Shot"
     },
     {
         "id": "Webbed_Bow",
@@ -1569,8 +1569,8 @@
         "power": 4.76,
         "speed": 1.47,
         "area\/ammo": 4.1,
-        "properties": "%Chance of shadow form on kills~First shot does not break shadow form",
-        "enchantments": "%Shadow Shot~Shadow Barb"
+        "properties": "^Chance of shadow form on kills~First shot does not break shadow form",
+        "enchantments": "^Shadow Shot~Shadow Barb"
     },
     {
         "id": "Weeping_Vine_Bow",
@@ -1580,7 +1580,7 @@
         "power": 5.3,
         "speed": 2.3,
         "area\/ammo": 2.9,
-        "properties": "%+1 Soul gathering",
+        "properties": "^+1 Soul gathering",
         "enchantments": ""
     },
     {
@@ -1591,8 +1591,8 @@
         "power": 5.3,
         "speed": 2.3,
         "area\/ammo": 2.9,
-        "properties": "%Souls critical boost~+2 Soul gathering",
-        "enchantments": "%Enigma Resonator"
+        "properties": "^Souls critical boost~+2 Soul gathering",
+        "enchantments": "^Enigma Resonator"
     },
     {
         "id": "Whirlwind",
@@ -1602,8 +1602,8 @@
         "power": 5.3,
         "speed": 2.3,
         "area\/ammo": 2.9,
-        "properties": "%Pulls in enemies~+1 Soul Gathering",
-        "enchantments": "%Gravity"
+        "properties": "^Pulls in enemies~+1 Soul Gathering",
+        "enchantments": "^Gravity"
     },
     {
         "id": "Whispering_Spear",
@@ -1613,7 +1613,7 @@
         "power": 3.6,
         "speed": 4.2,
         "area\/ammo": 4.1,
-        "properties": "%Fast multiple projectiles",
+        "properties": "^Fast multiple projectiles",
         "enchantments": ""
     },
     {
@@ -1624,8 +1624,8 @@
         "power": 3.6,
         "speed": 4.2,
         "area\/ammo": 4.2,
-        "properties": "%Fast multiple~Boosts next attack on roll",
-        "enchantments": "%Dynamo"
+        "properties": "^Fast multiple~Boosts next attack on roll",
+        "enchantments": "^Dynamo"
     },
     {
         "id": "Winter%27s_Touch",
@@ -1635,7 +1635,7 @@
         "power": 3.6,
         "speed": 4.2,
         "area\/ammo": 4.1,
-        "properties": "%Fast multiple~Souls critical boost~+2 Soul gathering",
-        "enchantments": "%Enigma Resonator"
+        "properties": "^Fast multiple~Souls critical boost~+2 Soul gathering",
+        "enchantments": "^Enigma Resonator"
     }
 ]
