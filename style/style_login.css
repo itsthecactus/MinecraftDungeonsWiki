@@ -1,6 +1,6 @@
 @font-face {
     font-family: Pixel;
-    src: url("../fonts/PixelFont.ttf");
+    src: url("../fonts/Minecraft-Regular.woff");
 }
 :hover {
     cursor: url("../cursor/MDPointer.cur"), pointer;
@@ -84,9 +84,10 @@ div.container {
     font-weight: lighter;
     margin-bottom: 2.5%;
     font-family: inherit;
+    padding-top: .8%;
 
-    width: 245px;
-    height: 70px;
+    width: 270px;
+    height: 65px;
 }
 .menu {
     background-color: rgba(0, 0, 0, .6);

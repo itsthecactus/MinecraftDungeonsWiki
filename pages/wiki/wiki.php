@@ -9,14 +9,28 @@
 <body>
 <form action="../main_page.php">
     <input type="submit" value="" class="main button zoom">
-</form>
 
 <?php
 $JSON_FILE = $_COOKIE['file'];
-$JSON_PATH = "../../data/".$JSON_FILE;
+$JSON_PATH = "../../data/".$JSON_FILE.".json";
 $JSON_DATA = json_decode(file_get_contents($JSON_PATH), true);
 
+
+//-------------------------------------------------------------------------------------------------------------------
+//LETTERS
+
+echo "<input type='button' value='' class='first null'>";
+$chars = str_split($JSON_FILE);
+foreach ($chars as $char)
+    echo "<input type='button' value='".strtoupper($char)."' class='main letter'>";
+echo "</form>";
+
+
+
 echo "<table>";
+
+//-------------------------------------------------------------------------------------------------------------------
+//CREATING VARIABLES
 
 foreach ($JSON_DATA as $array){
     $img = substr($array['img'], 0, strpos($array['img'], '.png') + 4);
@@ -33,13 +47,17 @@ foreach ($JSON_DATA as $array){
         $area_ammo = $array['area/ammo'];
     }
 
-    $properties = str_replace('~', '<br>🔷 ', $array['properties']);
-    $properties = str_replace('^', '🔷 ', $properties);
+    $properties = str_replace('~', '<br><img class="point" alt="point.svg" src="../../img/buttons/point.svg"> ', $array['properties']);
+    $properties = str_replace('^', '<img class="point" alt="point.svg" src="../../img/buttons/point.svg"> ', $properties);
 
     if (isset($array['enchantments'])) {
-        $enchantments = str_replace('~', '<br>🔶 ', $array['enchantments']);
-        $enchantments = str_replace('^', '🔶 ', $enchantments);
+        $enchantments = str_replace('~', '<br><img class="point" alt="point.svg" src="../../img/buttons/point.svg"> ', $array['enchantments']);
+        $enchantments = str_replace('^', '<img class="point" alt="point.svg" src="../../img/buttons/point.svg"> ', $enchantments);
     }
+
+
+//-------------------------------------------------------------------------------------------------------------------
+    //RARITY
 
     echo "
     <tr>
@@ -48,9 +66,13 @@ foreach ($JSON_DATA as $array){
     <p class='title'>".$name."</p><br>";
 
     if($rarity == 0)
-        echo "<p class='text unique'>UNIQUE</p><br>";
-    else echo "<p class='text common'>COMMON</p><br>
-    <p class='text rare'>RARE</p><br>";
+        echo "<p class='text rarity unique'>UNIQUE</p><br>";
+    else echo "<p class='text rarity common'>COMMON</p><br>
+    <p class='text rarity rare'>RARE</p><br>";
+
+
+//-------------------------------------------------------------------------------------------------------------------
+    //STATS
 
     if(isset($array['power'])) {
         echo "
@@ -70,6 +92,9 @@ foreach ($JSON_DATA as $array){
     }
 
 
+//-------------------------------------------------------------------------------------------------------------------
+    //IMAGE
+
     echo "</td>
     
     
@@ -78,9 +103,17 @@ foreach ($JSON_DATA as $array){
     </td>
 ";
 
+
+//-------------------------------------------------------------------------------------------------------------------
+    //PROPERTIES
+
     echo "<td class='info'>
     <p>".$properties."</p>
 </td>";
+
+
+//-------------------------------------------------------------------------------------------------------------------
+    //ENCHANTMENTS
 
     if (isset($array['enchantments']) && !empty($enchantments))
         echo "<td class='info'>

@@ -1,3 +1,3 @@
 <?php
-setcookie('file', 'artifacts.json', time() + 86400, './');
+setcookie('file', 'artifacts', time() + 86400, './');
 header('Location:wiki.php');
